@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+folium
+plotly
+pandas
+numpy
+scikit-learn
+joblib
+prophet
+statsmodels
+pmdarima

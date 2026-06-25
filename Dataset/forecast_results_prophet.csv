@@ -1,0 +1,2356 @@
+Entity,Year,feature,forecast_value,lower_ci,upper_ci
+Albania,2023,internet_usage,88.6804,78.3062,99.5256
+Albania,2024,internet_usage,92.8279,82.7497,104.2154
+Albania,2025,internet_usage,96.9868,85.9439,108.1437
+Albania,2026,internet_usage,101.1343,90.7461,112.3068
+Albania,2027,internet_usage,105.2818,94.0482,115.7319
+Albania,2023,electricity_access,100.0341,99.8212,100.2501
+Albania,2024,electricity_access,100.0487,99.3598,100.7274
+Albania,2025,electricity_access,100.0633,98.7502,101.2552
+Albania,2026,electricity_access,100.0779,98.1152,101.951
+Albania,2027,electricity_access,100.0925,97.3787,102.7372
+Albania,2023,gdp_per_capita,12851.0657,12425.6491,13265.0829
+Albania,2024,gdp_per_capita,13150.2068,12730.6487,13546.2197
+Albania,2025,gdp_per_capita,13450.1673,13027.8332,13865.9093
+Albania,2026,gdp_per_capita,13749.3084,13314.5075,14187.4782
+Albania,2027,gdp_per_capita,14048.4494,13646.507,14453.7323
+Algeria,2023,internet_usage,66.9188,52.2297,80.938
+Algeria,2024,internet_usage,70.3372,55.6357,85.281
+Algeria,2025,internet_usage,73.7649,60.8849,88.023
+Algeria,2026,internet_usage,77.1833,63.0366,91.8952
+Algeria,2027,internet_usage,80.6017,67.0936,94.7535
+Algeria,2023,electricity_access,100.0119,99.7391,100.2342
+Algeria,2024,electricity_access,100.1057,99.2356,100.8131
+Algeria,2025,electricity_access,100.1998,98.7081,101.564
+Algeria,2026,electricity_access,100.2936,98.0759,102.482
+Algeria,2027,electricity_access,100.3874,97.2595,103.4667
+Algeria,2023,gdp_per_capita,15650.118,13666.3417,17716.6215
+Algeria,2024,gdp_per_capita,15970.4998,14230.8508,17930.4573
+Algeria,2025,gdp_per_capita,16291.7593,14142.3202,18136.3011
+Algeria,2026,gdp_per_capita,16612.1411,14746.3721,18643.3086
+Algeria,2027,gdp_per_capita,16932.5228,14968.0892,19008.6666
+Angola,2023,internet_usage,37.9151,28.6592,47.9601
+Angola,2024,internet_usage,39.9506,30.4717,51.0892
+Angola,2025,internet_usage,41.9916,32.4351,51.8704
+Angola,2026,internet_usage,44.0271,33.7761,53.5208
+Angola,2027,internet_usage,46.0626,36.1179,55.7467
+Angola,2023,electricity_access,49.8911,44.7166,55.2831
+Angola,2024,electricity_access,51.024,45.8047,56.2017
+Angola,2025,electricity_access,52.1601,47.0408,57.3279
+Angola,2026,electricity_access,53.293,47.8946,58.2506
+Angola,2027,electricity_access,54.4259,49.1841,59.7046
+Angola,2023,gdp_per_capita,8813.81,5734.6991,11928.6583
+Angola,2024,gdp_per_capita,9049.8893,6154.0428,12030.3135
+Angola,2025,gdp_per_capita,9286.6155,6399.7609,12091.8032
+Angola,2026,gdp_per_capita,9522.6948,6727.4493,12554.965
+Angola,2027,gdp_per_capita,9758.7741,6841.4415,12743.2735
+Argentina,2023,internet_usage,97.7453,90.1603,105.0156
+Argentina,2024,internet_usage,101.936,94.0896,109.4211
+Argentina,2025,internet_usage,106.1383,98.9085,114.1039
+Argentina,2026,internet_usage,110.329,103.5777,117.2339
+Argentina,2027,internet_usage,114.5198,107.5294,122.2222
+Argentina,2023,electricity_access,100.0,99.5665,100.4598
+Argentina,2024,electricity_access,100.0,98.706,101.384
+Argentina,2025,electricity_access,100.0,97.5784,102.4749
+Argentina,2026,electricity_access,100.0,96.2711,103.8903
+Argentina,2027,electricity_access,100.0,94.8305,105.4358
+Argentina,2023,gdp_per_capita,19973.2607,16659.0047,23303.4372
+Argentina,2024,gdp_per_capita,20202.6418,16908.1386,23757.9274
+Argentina,2025,gdp_per_capita,20432.6514,17122.2839,23881.9693
+Argentina,2026,gdp_per_capita,20662.0325,17217.8558,23828.776
+Argentina,2027,gdp_per_capita,20891.4137,17370.2172,24329.1784
+Armenia,2023,internet_usage,85.5975,72.5557,98.7986
+Armenia,2024,internet_usage,89.8333,77.4327,104.3692
+Armenia,2025,internet_usage,94.0807,79.9149,108.9546
+Armenia,2026,internet_usage,98.3166,84.8231,112.4794
+Armenia,2027,internet_usage,102.5524,87.8686,115.7219
+Armenia,2023,electricity_access,100.1279,99.4559,100.8344
+Armenia,2024,electricity_access,100.1777,99.5329,100.8988
+Armenia,2025,electricity_access,100.2276,99.5696,100.8997
+Armenia,2026,electricity_access,100.2774,99.5481,100.9429
+Armenia,2027,electricity_access,100.3272,99.6918,101.0334
+Armenia,2023,gdp_per_capita,13009.2884,11494.1825,14606.9928
+Armenia,2024,gdp_per_capita,13320.4587,11843.5915,14839.2066
+Armenia,2025,gdp_per_capita,13632.4815,12259.8074,15130.9119
+Armenia,2026,gdp_per_capita,13943.6518,12430.6815,15563.497
+Armenia,2027,gdp_per_capita,14254.8221,12772.5827,15711.538
+Australia,2023,internet_usage,99.551,97.4213,101.4104
+Australia,2024,internet_usage,101.3302,99.3838,103.6299
+Australia,2025,internet_usage,103.1142,101.1207,105.1467
+Australia,2026,internet_usage,104.8934,102.7905,106.9904
+Australia,2027,internet_usage,106.6726,104.3185,109.1069
+Australia,2023,electricity_access,100.0,100.0,100.0
+Australia,2024,electricity_access,100.0,100.0,100.0
+Australia,2025,electricity_access,100.0,100.0,100.0
+Australia,2026,electricity_access,100.0,100.0,100.0
+Australia,2027,electricity_access,100.0,100.0,100.0
+Australia,2023,gdp_per_capita,51516.6037,50573.0941,52486.3932
+Australia,2024,gdp_per_capita,51948.161,51027.7737,53015.356
+Australia,2025,gdp_per_capita,52380.9006,51357.6916,53447.4009
+Australia,2026,gdp_per_capita,52812.4579,51727.2179,53876.6487
+Australia,2027,gdp_per_capita,53244.0151,52080.9029,54444.5905
+Austria,2023,internet_usage,94.9631,91.4003,98.7366
+Austria,2024,internet_usage,96.4354,92.6919,100.1855
+Austria,2025,internet_usage,97.9117,93.4708,101.7989
+Austria,2026,internet_usage,99.384,94.6254,104.0289
+Austria,2027,internet_usage,100.8563,95.9392,105.817
+Austria,2023,electricity_access,100.0,100.0,100.0
+Austria,2024,electricity_access,100.0,100.0,100.0
+Austria,2025,electricity_access,100.0,100.0,100.0
+Austria,2026,electricity_access,100.0,100.0,100.0
+Austria,2027,electricity_access,100.0,100.0,100.0
+Austria,2023,gdp_per_capita,43260.0909,41885.6216,44591.1804
+Austria,2024,gdp_per_capita,43465.2341,42047.829,44831.1761
+Austria,2025,gdp_per_capita,43670.9392,42315.9526,45018.6808
+Austria,2026,gdp_per_capita,43876.0823,42436.5881,45330.7347
+Austria,2027,gdp_per_capita,44081.2254,42651.8525,45534.508
+Azerbaijan,2023,internet_usage,103.7915,87.3629,120.2904
+Azerbaijan,2024,internet_usage,108.6122,90.393,124.9968
+Azerbaijan,2025,internet_usage,113.4462,96.9068,131.4774
+Azerbaijan,2026,internet_usage,118.267,101.1431,134.9701
+Azerbaijan,2027,internet_usage,123.0877,105.2313,141.1313
+Azerbaijan,2023,electricity_access,100.0,99.4935,100.4653
+Azerbaijan,2024,electricity_access,100.0,98.4568,101.4738
+Azerbaijan,2025,electricity_access,100.0,97.2474,102.7532
+Azerbaijan,2026,electricity_access,100.0,96.0624,104.1641
+Azerbaijan,2027,electricity_access,100.0,94.3802,105.9175
+Azerbaijan,2023,gdp_per_capita,20769.5105,16470.1122,25352.0637
+Azerbaijan,2024,gdp_per_capita,21376.4515,17045.8886,26012.1756
+Azerbaijan,2025,gdp_per_capita,21985.0553,17539.1445,26794.9321
+Azerbaijan,2026,gdp_per_capita,22591.9963,17824.3768,27031.9624
+Azerbaijan,2027,gdp_per_capita,23198.9372,18728.1066,27190.9675
+Bahrain,2023,internet_usage,123.0717,103.5749,142.4556
+Bahrain,2024,internet_usage,128.0505,107.7668,146.1447
+Bahrain,2025,internet_usage,133.0429,114.2801,153.4134
+Bahrain,2026,internet_usage,138.0217,119.3861,158.2459
+Bahrain,2027,internet_usage,143.0004,123.8947,163.1652
+Bahrain,2023,electricity_access,100.0,100.0,100.0
+Bahrain,2024,electricity_access,100.0,100.0,100.0
+Bahrain,2025,electricity_access,100.0,100.0,100.0
+Bahrain,2026,electricity_access,100.0,100.0,100.0
+Bahrain,2027,electricity_access,100.0,100.0,100.0
+Bahrain,2023,gdp_per_capita,37896.8129,36733.1997,38948.4494
+Bahrain,2024,gdp_per_capita,37704.4794,36599.8584,38922.629
+Bahrain,2025,gdp_per_capita,37511.619,36188.8625,38878.4435
+Bahrain,2026,gdp_per_capita,37319.2854,35641.4301,39024.9486
+Bahrain,2027,gdp_per_capita,37126.9519,35155.9918,39228.441
+Bangladesh,2023,internet_usage,33.887,22.0246,45.1554
+Bangladesh,2024,internet_usage,35.7453,23.9873,46.8209
+Bangladesh,2025,internet_usage,37.6086,26.7009,48.8755
+Bangladesh,2026,internet_usage,39.4668,27.9882,50.3567
+Bangladesh,2027,internet_usage,41.3251,29.7826,52.1335
+Bangladesh,2023,electricity_access,105.698,100.8369,111.2471
+Bangladesh,2024,electricity_access,109.6615,104.1857,115.5316
+Bangladesh,2025,electricity_access,113.6358,107.9064,119.0406
+Bangladesh,2026,electricity_access,117.5993,112.111,122.9967
+Bangladesh,2027,electricity_access,121.5628,115.503,127.1102
+Bangladesh,2023,gdp_per_capita,5117.2801,5092.1294,5143.1359
+Bangladesh,2024,gdp_per_capita,5334.6294,5291.7613,5376.4357
+Bangladesh,2025,gdp_per_capita,5552.5742,5488.3142,5619.3373
+Bangladesh,2026,gdp_per_capita,5769.9235,5676.4882,5873.3475
+Bangladesh,2027,gdp_per_capita,5987.2727,5858.7973,6129.0407
+Barbados,2023,internet_usage,91.1345,72.7687,111.0357
+Barbados,2024,internet_usage,93.7695,74.7777,114.3496
+Barbados,2025,internet_usage,96.4117,78.5371,115.9529
+Barbados,2026,internet_usage,99.0466,80.6405,118.01
+Barbados,2027,internet_usage,101.6816,81.869,122.1885
+Barbados,2023,electricity_access,100.0,99.9644,100.0265
+Barbados,2024,electricity_access,100.0,99.886,100.0798
+Barbados,2025,electricity_access,100.0,99.8009,100.1582
+Barbados,2026,electricity_access,100.0,99.6903,100.2395
+Barbados,2027,electricity_access,100.0,99.5819,100.3202
+Barbados,2023,gdp_per_capita,11322.4621,10438.0347,12272.599
+Barbados,2024,gdp_per_capita,11266.4074,10408.7309,12156.4896
+Barbados,2025,gdp_per_capita,11210.1991,10296.6839,12138.7591
+Barbados,2026,gdp_per_capita,11154.1444,10231.4339,12074.2534
+Barbados,2027,gdp_per_capita,11098.0897,10170.872,12011.086
+Belarus,2023,internet_usage,98.6543,91.0906,106.6708
+Belarus,2024,internet_usage,103.3468,95.8049,111.3129
+Belarus,2025,internet_usage,108.0521,100.6373,115.1523
+Belarus,2026,internet_usage,112.7445,105.7871,119.8998
+Belarus,2027,internet_usage,117.4369,109.5551,125.2066
+Belarus,2023,electricity_access,100.3251,100.1184,100.5301
+Belarus,2024,electricity_access,100.4854,100.1915,100.7916
+Belarus,2025,electricity_access,100.646,100.2057,101.1035
+Belarus,2026,electricity_access,100.8063,100.1616,101.4828
+Belarus,2027,electricity_access,100.9665,100.1533,101.8982
+Belarus,2023,gdp_per_capita,21443.6961,18756.6813,24169.1883
+Belarus,2024,gdp_per_capita,21897.6086,19065.0122,24589.3
+Belarus,2025,gdp_per_capita,22352.7648,19728.7062,25118.4317
+Belarus,2026,gdp_per_capita,22806.6773,20076.6427,25454.8297
+Belarus,2027,gdp_per_capita,23260.5899,20500.2448,25879.741
+Belgium,2023,internet_usage,96.0509,92.6388,99.6394
+Belgium,2024,internet_usage,97.4259,93.2415,101.1955
+Belgium,2025,internet_usage,98.8047,94.7522,102.6041
+Belgium,2026,internet_usage,100.1797,95.5575,104.4556
+Belgium,2027,internet_usage,101.5548,96.4175,106.5604
+Belgium,2023,electricity_access,100.0,100.0,100.0
+Belgium,2024,electricity_access,100.0,100.0,100.0
+Belgium,2025,electricity_access,100.0,100.0,100.0
+Belgium,2026,electricity_access,100.0,100.0,100.0
+Belgium,2027,electricity_access,100.0,100.0,100.0
+Belgium,2023,gdp_per_capita,41403.7828,40236.3798,42587.858
+Belgium,2024,gdp_per_capita,41674.8515,40553.058,42815.4312
+Belgium,2025,gdp_per_capita,41946.6628,40806.4401,43067.2536
+Belgium,2026,gdp_per_capita,42217.7315,41095.9152,43376.2364
+Belgium,2027,gdp_per_capita,42488.8002,41332.8959,43648.6294
+Benin,2023,internet_usage,24.1471,16.6714,32.1626
+Benin,2024,internet_usage,25.4371,17.4385,33.0472
+Benin,2025,internet_usage,26.7306,19.5289,34.9386
+Benin,2026,internet_usage,28.0206,20.2625,35.0602
+Benin,2027,internet_usage,29.3106,21.8023,36.8757
+Benin,2023,electricity_access,45.8545,39.0616,52.9697
+Benin,2024,electricity_access,46.9389,40.4075,54.1415
+Benin,2025,electricity_access,48.0264,41.3313,54.7581
+Benin,2026,electricity_access,49.1109,42.5677,56.3814
+Benin,2027,electricity_access,50.1954,43.5596,56.7169
+Benin,2023,gdp_per_capita,2520.4447,2484.9662,2558.3611
+Benin,2024,gdp_per_capita,2585.2955,2545.0216,2628.4581
+Benin,2025,gdp_per_capita,2650.324,2603.886,2697.3743
+Benin,2026,gdp_per_capita,2715.1748,2653.1225,2775.9276
+Benin,2027,gdp_per_capita,2780.0256,2698.2435,2851.2738
+Bolivia,2023,internet_usage,64.6038,56.1797,73.2529
+Bolivia,2024,internet_usage,67.6981,59.1529,76.6202
+Bolivia,2025,internet_usage,70.8008,62.3877,79.8385
+Bolivia,2026,internet_usage,73.8951,64.977,82.7592
+Bolivia,2027,internet_usage,76.9894,68.0206,85.2395
+Bolivia,2023,electricity_access,100.9425,95.4414,106.5546
+Bolivia,2024,electricity_access,102.1478,96.6541,107.577
+Bolivia,2025,electricity_access,103.3564,98.2061,108.461
+Bolivia,2026,electricity_access,104.5617,99.1451,109.8227
+Bolivia,2027,electricity_access,105.767,100.4038,111.1893
+Bolivia,2023,gdp_per_capita,6954.6603,6527.6408,7427.5451
+Bolivia,2024,gdp_per_capita,7085.1992,6597.7825,7548.7587
+Bolivia,2025,gdp_per_capita,7216.0958,6760.154,7656.6137
+Bolivia,2026,gdp_per_capita,7346.6347,6882.2924,7816.8389
+Bolivia,2027,gdp_per_capita,7477.1736,7014.7919,7918.2764
+Bosnia and Herzegovina,2023,internet_usage,84.2176,78.875,89.5656
+Bosnia and Herzegovina,2024,internet_usage,87.7107,82.2203,93.0273
+Bosnia and Herzegovina,2025,internet_usage,91.2134,85.6887,96.5894
+Bosnia and Herzegovina,2026,internet_usage,94.7066,89.3508,100.0236
+Bosnia and Herzegovina,2027,internet_usage,98.1998,92.6557,103.3831
+Bosnia and Herzegovina,2023,electricity_access,100.0,99.4669,100.5718
+Bosnia and Herzegovina,2024,electricity_access,100.0,98.2667,101.7153
+Bosnia and Herzegovina,2025,electricity_access,100.0,96.6776,103.293
+Bosnia and Herzegovina,2026,electricity_access,100.0,94.7009,104.8805
+Bosnia and Herzegovina,2027,electricity_access,100.0,92.7734,106.7245
+Bosnia and Herzegovina,2023,gdp_per_capita,11927.7867,11376.5368,12453.8088
+Bosnia and Herzegovina,2024,gdp_per_capita,12186.2901,11666.5877,12730.3748
+Bosnia and Herzegovina,2025,gdp_per_capita,12445.5018,11902.5778,12979.0495
+Bosnia and Herzegovina,2026,gdp_per_capita,12704.0052,12167.2258,13270.0191
+Bosnia and Herzegovina,2027,gdp_per_capita,12962.5086,12399.391,13503.7699
+Botswana,2023,internet_usage,71.0577,51.632,88.9279
+Botswana,2024,internet_usage,74.7637,55.1221,94.5666
+Botswana,2025,internet_usage,78.48,58.3929,97.2866
+Botswana,2026,internet_usage,82.186,63.8853,101.2464
+Botswana,2027,internet_usage,85.8921,66.1044,106.5985
+Botswana,2023,electricity_access,78.7762,76.1686,81.3591
+Botswana,2024,electricity_access,80.8974,78.2312,83.4188
+Botswana,2025,electricity_access,83.0245,80.1665,85.624
+Botswana,2026,electricity_access,85.1458,82.4418,87.7995
+Botswana,2027,electricity_access,87.267,84.3617,90.0224
+Botswana,2023,gdp_per_capita,16467.3367,15463.7749,17500.7748
+Botswana,2024,gdp_per_capita,16729.4054,15725.3401,17644.6045
+Botswana,2025,gdp_per_capita,16992.192,16010.9459,18030.72
+Botswana,2026,gdp_per_capita,17254.2606,16314.762,18188.7424
+Botswana,2027,gdp_per_capita,17516.3292,16610.3633,18535.1668
+Brazil,2023,internet_usage,87.9918,85.0438,91.2686
+Brazil,2024,internet_usage,91.5941,88.5353,94.7223
+Brazil,2025,internet_usage,95.2064,91.9954,98.2131
+Brazil,2026,internet_usage,98.8087,95.7551,101.6913
+Brazil,2027,internet_usage,102.4111,99.5144,105.5844
+Brazil,2023,electricity_access,99.7858,99.4455,100.1099
+Brazil,2024,electricity_access,99.7962,98.8718,100.6504
+Brazil,2025,electricity_access,99.8066,98.15,101.405
+Brazil,2026,electricity_access,99.8171,97.2011,102.2412
+Brazil,2027,electricity_access,99.8275,96.3033,103.2856
+Brazil,2023,gdp_per_capita,14112.5911,13367.038,14837.6819
+Brazil,2024,gdp_per_capita,14053.6212,13362.1076,14836.1941
+Brazil,2025,gdp_per_capita,13994.4898,13311.1601,14709.5358
+Brazil,2026,gdp_per_capita,13935.52,13167.641,14686.8903
+Brazil,2027,gdp_per_capita,13876.5501,13060.7683,14818.5929
+Bulgaria,2023,internet_usage,80.0854,76.2135,83.8737
+Bulgaria,2024,internet_usage,82.8229,78.6735,86.5678
+Bulgaria,2025,internet_usage,85.5678,81.792,89.4502
+Bulgaria,2026,internet_usage,88.3052,84.1736,92.3734
+Bulgaria,2027,internet_usage,91.0427,86.9632,95.2369
+Bulgaria,2023,electricity_access,100.6092,100.4275,100.7905
+Bulgaria,2024,electricity_access,101.0006,100.731,101.2817
+Bulgaria,2025,electricity_access,101.3931,100.9455,101.8269
+Bulgaria,2026,electricity_access,101.7845,101.0734,102.4594
+Bulgaria,2027,electricity_access,102.1758,101.1889,103.0871
+Bulgaria,2023,gdp_per_capita,20294.261,19472.6502,21201.7663
+Bulgaria,2024,gdp_per_capita,20742.3342,19796.3494,21644.6525
+Bulgaria,2025,gdp_per_capita,21191.635,20352.1191,22093.3785
+Bulgaria,2026,gdp_per_capita,21639.7082,20686.1783,22685.3109
+Bulgaria,2027,gdp_per_capita,22087.7814,21110.3906,23067.0831
+Burkina Faso,2023,internet_usage,11.9401,9.3832,14.7246
+Burkina Faso,2024,internet_usage,12.5636,10.0004,15.1562
+Burkina Faso,2025,internet_usage,13.1888,10.3948,16.196
+Burkina Faso,2026,internet_usage,13.8122,10.967,16.5213
+Burkina Faso,2027,internet_usage,14.4357,11.8313,17.0719
+Burkina Faso,2023,electricity_access,19.7455,17.6772,21.7506
+Burkina Faso,2024,electricity_access,20.2066,18.0938,22.2868
+Burkina Faso,2025,electricity_access,20.669,18.7071,22.7748
+Burkina Faso,2026,electricity_access,21.13,19.0893,23.1456
+Burkina Faso,2027,electricity_access,21.5911,19.4876,23.5617
+Burkina Faso,2023,gdp_per_capita,1759.0484,1728.1241,1792.5685
+Burkina Faso,2024,gdp_per_capita,1793.9506,1762.1882,1826.5992
+Burkina Faso,2025,gdp_per_capita,1828.9484,1794.5352,1862.4009
+Burkina Faso,2026,gdp_per_capita,1863.8506,1826.8662,1900.6779
+Burkina Faso,2027,gdp_per_capita,1898.7528,1854.4887,1939.781
+Burundi,2023,internet_usage,7.3923,3.6549,11.2066
+Burundi,2024,internet_usage,7.7972,4.0162,11.4876
+Burundi,2025,internet_usage,8.2032,4.1139,12.2469
+Burundi,2026,internet_usage,8.608,4.6074,12.3603
+Burundi,2027,internet_usage,9.0129,5.3469,12.9408
+Burundi,2023,electricity_access,10.8892,9.8441,11.8547
+Burundi,2024,electricity_access,11.2791,10.3494,12.3042
+Burundi,2025,electricity_access,11.67,10.6847,12.6111
+Burundi,2026,electricity_access,12.0598,11.0845,13.0588
+Burundi,2027,electricity_access,12.4496,11.4523,13.3972
+Burundi,2023,gdp_per_capita,726.4,702.3053,753.1126
+Burundi,2024,gdp_per_capita,727.2779,702.5437,752.7361
+Burundi,2025,gdp_per_capita,728.1582,702.1654,755.3917
+Burundi,2026,gdp_per_capita,729.036,702.4434,755.606
+Burundi,2027,gdp_per_capita,729.9139,703.8451,756.9956
+Cambodia,2023,internet_usage,49.163,27.5366,70.3812
+Cambodia,2024,internet_usage,51.9344,30.2055,73.9013
+Cambodia,2025,internet_usage,54.7134,34.2827,75.7937
+Cambodia,2026,internet_usage,57.4849,35.8364,78.2142
+Cambodia,2027,internet_usage,60.2563,38.6501,81.2095
+Cambodia,2023,electricity_access,94.2534,78.8545,109.2195
+Cambodia,2024,electricity_access,98.2993,84.5888,113.5125
+Cambodia,2025,electricity_access,102.3563,87.5993,117.0759
+Cambodia,2026,electricity_access,106.4023,91.51,120.4403
+Cambodia,2027,electricity_access,110.4482,95.9318,124.8762
+Cambodia,2023,gdp_per_capita,4112.5035,3913.7054,4304.2904
+Cambodia,2024,gdp_per_capita,4233.2745,4025.0161,4434.6862
+Cambodia,2025,gdp_per_capita,4354.3763,4156.712,4542.3153
+Cambodia,2026,gdp_per_capita,4475.1473,4263.9869,4669.98
+Cambodia,2027,gdp_per_capita,4595.9183,4412.8677,4783.265
+Cameroon,2023,internet_usage,38.1741,27.1503,49.0981
+Cameroon,2024,internet_usage,40.218,29.2103,51.2289
+Cameroon,2025,internet_usage,42.2674,30.596,53.3558
+Cameroon,2026,internet_usage,44.3112,32.2793,54.9105
+Cameroon,2027,internet_usage,46.3551,35.5509,57.1571
+Cameroon,2023,electricity_access,69.2132,67.0889,71.2052
+Cameroon,2024,electricity_access,70.5564,68.4351,72.6148
+Cameroon,2025,electricity_access,71.9032,69.8748,74.0171
+Cameroon,2026,electricity_access,73.2464,71.0068,75.2278
+Cameroon,2027,electricity_access,74.5896,72.4304,76.7775
+Cameroon,2023,gdp_per_capita,2808.5512,2781.0764,2835.7369
+Cameroon,2024,gdp_per_capita,2810.982,2775.0607,2844.6394
+Cameroon,2025,gdp_per_capita,2813.4193,2770.193,2856.5704
+Cameroon,2026,gdp_per_capita,2815.8501,2750.6292,2880.4549
+Cameroon,2027,gdp_per_capita,2818.2808,2739.5097,2902.1478
+Canada,2023,internet_usage,95.4614,93.0103,98.0574
+Canada,2024,internet_usage,96.0961,93.3864,98.7665
+Canada,2025,internet_usage,96.7325,93.7507,99.6543
+Canada,2026,internet_usage,97.3671,94.5156,100.2323
+Canada,2027,internet_usage,98.0017,94.7337,101.4387
+Canada,2023,electricity_access,100.0,100.0,100.0
+Canada,2024,electricity_access,100.0,100.0,100.0
+Canada,2025,electricity_access,100.0,100.0,100.0
+Canada,2026,electricity_access,100.0,100.0,100.0
+Canada,2027,electricity_access,100.0,100.0,100.0
+Canada,2023,gdp_per_capita,45411.4273,43875.193,46805.796
+Canada,2024,gdp_per_capita,45649.13,44315.3108,47112.3954
+Canada,2025,gdp_per_capita,45887.484,44464.7628,47378.3717
+Canada,2026,gdp_per_capita,46125.1867,44670.7857,47578.4556
+Canada,2027,gdp_per_capita,46362.8894,44942.5305,47826.1378
+Cape Verde,2023,internet_usage,78.4867,74.1159,83.4101
+Cape Verde,2024,internet_usage,82.5405,77.8032,87.1539
+Cape Verde,2025,internet_usage,86.6054,81.7923,91.5214
+Cape Verde,2026,internet_usage,90.6592,85.694,95.5883
+Cape Verde,2027,internet_usage,94.7131,89.538,99.8551
+Cape Verde,2023,electricity_access,98.0774,95.4911,100.5595
+Cape Verde,2024,electricity_access,99.5225,97.1299,102.0
+Cape Verde,2025,electricity_access,100.9715,98.4978,103.3198
+Cape Verde,2026,electricity_access,102.4166,100.0112,104.8533
+Cape Verde,2027,electricity_access,103.8616,101.1824,106.4661
+Cape Verde,2023,gdp_per_capita,7418.7563,6460.7597,8368.629
+Cape Verde,2024,gdp_per_capita,7561.6556,6581.3864,8463.6497
+Cape Verde,2025,gdp_per_capita,7704.9464,6794.8597,8613.9239
+Cape Verde,2026,gdp_per_capita,7847.8457,6941.8968,8763.5203
+Cape Verde,2027,gdp_per_capita,7990.745,7036.8239,8922.3974
+Central African Republic,2023,internet_usage,6.0392,4.4494,7.7307
+Central African Republic,2024,internet_usage,6.3425,4.8688,7.9439
+Central African Republic,2023,electricity_access,17.1226,16.4507,17.8353
+Central African Republic,2024,electricity_access,17.6868,16.9409,18.3756
+Central African Republic,2023,gdp_per_capita,506.8594,348.1589,676.9777
+Central African Republic,2024,gdp_per_capita,485.696,309.368,654.1044
+Chad,2023,internet_usage,9.7526,6.673,12.9345
+Chad,2024,internet_usage,10.2722,7.0857,13.4056
+Chad,2025,internet_usage,10.7933,7.3306,13.9504
+Chad,2026,internet_usage,11.3128,8.0557,14.6932
+Chad,2027,internet_usage,11.8324,8.4237,14.9
+Chad,2023,electricity_access,11.8888,10.5554,13.2903
+Chad,2024,electricity_access,12.2803,10.9309,13.5366
+Chad,2025,electricity_access,12.6729,11.3485,14.0464
+Chad,2026,electricity_access,13.0644,11.6437,14.4484
+Chad,2027,electricity_access,13.4559,12.2031,14.8524
+Chad,2023,gdp_per_capita,1809.3742,1344.7842,2266.6554
+Chad,2024,gdp_per_capita,1842.7194,1396.4238,2303.1215
+Chad,2025,gdp_per_capita,1876.1559,1427.4763,2336.2089
+Chad,2026,gdp_per_capita,1909.5011,1444.1189,2351.8059
+Chad,2027,gdp_per_capita,1942.8463,1490.6065,2375.057
+Chile,2023,internet_usage,99.8549,91.5496,108.2814
+Chile,2024,internet_usage,103.6561,95.8716,112.4563
+Chile,2025,internet_usage,107.4677,99.402,115.4249
+Chile,2026,internet_usage,111.2689,103.507,118.8277
+Chile,2027,internet_usage,115.0701,107.3259,123.2715
+Chile,2023,electricity_access,100.0886,99.2462,100.952
+Chile,2024,electricity_access,100.1199,99.2789,100.9813
+Chile,2025,electricity_access,100.1512,99.29,101.0705
+Chile,2026,electricity_access,100.1825,99.3234,101.0672
+Chile,2027,electricity_access,100.2139,99.3524,101.14
+Chile,2023,gdp_per_capita,22606.386,21598.824,23591.2276
+Chile,2024,gdp_per_capita,22778.265,21744.8811,23774.8258
+Chile,2025,gdp_per_capita,22950.6149,21908.7903,23927.6586
+Chile,2026,gdp_per_capita,23122.4938,22129.372,24218.5725
+Chile,2027,gdp_per_capita,23294.3728,22312.5699,24304.6212
+China,2023,internet_usage,79.1282,72.8175,85.2605
+China,2024,internet_usage,82.7583,76.8195,89.0628
+China,2025,internet_usage,86.3984,80.4871,92.8124
+China,2026,internet_usage,90.0286,83.6945,95.9992
+China,2027,internet_usage,93.6588,87.2432,99.5169
+China,2023,electricity_access,100.0,99.886,100.107
+China,2024,electricity_access,100.0,99.6391,100.331
+China,2025,electricity_access,100.0,99.3181,100.5808
+China,2026,electricity_access,100.0,98.9497,100.9209
+China,2027,electricity_access,100.0,98.5393,101.3428
+China,2023,gdp_per_capita,20108.0321,19878.8224,20330.6193
+China,2024,gdp_per_capita,20951.4169,20700.8043,21207.2501
+China,2025,gdp_per_capita,21797.1124,21479.0607,22102.5067
+China,2026,gdp_per_capita,22640.4973,22231.3832,23027.4313
+China,2027,gdp_per_capita,23483.8822,22978.6049,24016.3078
+Colombia,2023,internet_usage,82.205,75.9578,88.6254
+Colombia,2024,internet_usage,85.8566,79.7431,92.8046
+Colombia,2025,internet_usage,89.5182,82.9478,95.9026
+Colombia,2026,internet_usage,93.1698,86.7595,100.0597
+Colombia,2027,internet_usage,96.8214,90.1608,103.0738
+Colombia,2023,electricity_access,100.3308,98.9592,101.6631
+Colombia,2024,electricity_access,100.6111,99.228,102.0621
+Colombia,2025,electricity_access,100.8922,99.5677,102.1596
+Colombia,2026,electricity_access,101.1725,99.7884,102.5898
+Colombia,2027,electricity_access,101.4528,100.0033,102.7564
+Colombia,2023,gdp_per_capita,14197.4868,13484.922,14900.7148
+Colombia,2024,gdp_per_capita,14365.6836,13696.4903,15055.9803
+Colombia,2025,gdp_per_capita,14534.3411,13781.5775,15246.0147
+Colombia,2026,gdp_per_capita,14702.5379,13909.9939,15411.3728
+Colombia,2027,gdp_per_capita,14870.7346,14145.2744,15566.1895
+Comoros,2023,internet_usage,22.3724,13.4283,31.3522
+Comoros,2024,internet_usage,23.5508,14.8779,33.9022
+Comoros,2025,internet_usage,24.7324,15.0848,34.7065
+Comoros,2026,internet_usage,25.9107,16.2408,35.5064
+Comoros,2027,internet_usage,27.0891,16.9607,36.0708
+Comoros,2023,electricity_access,91.9789,89.0629,94.8829
+Comoros,2024,electricity_access,94.1164,91.104,97.3317
+Comoros,2025,electricity_access,96.2597,93.6112,99.0792
+Comoros,2026,electricity_access,98.3972,95.3211,101.5425
+Comoros,2027,electricity_access,100.5347,97.3288,103.7096
+Comoros,2023,gdp_per_capita,1970.1467,1917.338,2022.9768
+Comoros,2024,gdp_per_capita,2008.1778,1952.9373,2060.9566
+Comoros,2025,gdp_per_capita,2046.3132,1992.0303,2096.3917
+Comoros,2026,gdp_per_capita,2084.3443,2030.8799,2135.998
+Comoros,2027,gdp_per_capita,2122.3755,2069.562,2173.1144
+Congo,2023,internet_usage,24.9225,13.6079,35.8098
+Congo,2024,internet_usage,26.2484,15.2632,37.6791
+Congo,2025,internet_usage,27.5778,17.2117,38.6349
+Congo,2026,internet_usage,28.9036,17.9753,40.0536
+Congo,2027,internet_usage,30.2295,18.8522,41.3896
+Congo,2023,electricity_access,51.5311,50.9656,52.0837
+Congo,2024,electricity_access,52.4333,51.8573,52.9759
+Congo,2025,electricity_access,53.3379,52.7241,53.9539
+Congo,2026,electricity_access,54.24,53.5838,54.9391
+Congo,2027,electricity_access,55.1421,54.384,55.8681
+Congo,2023,gdp_per_capita,5343.5373,3998.4608,6669.0869
+Congo,2024,gdp_per_capita,5365.0626,3936.6891,6760.9437
+Congo,2025,gdp_per_capita,5386.6469,3962.0674,6816.6865
+Congo,2026,gdp_per_capita,5408.1722,3979.218,6710.8562
+Congo,2027,gdp_per_capita,5429.6975,3942.4511,6848.2913
+Costa Rica,2023,internet_usage,90.798,84.7479,97.3503
+Costa Rica,2024,internet_usage,94.7234,88.7413,100.6063
+Costa Rica,2025,internet_usage,98.6595,92.5244,104.7057
+Costa Rica,2026,internet_usage,102.5849,96.6528,108.8925
+Costa Rica,2027,internet_usage,106.5102,100.7569,112.6048
+Costa Rica,2023,electricity_access,100.1276,99.8908,100.4244
+Costa Rica,2024,electricity_access,100.2164,99.4411,101.0974
+Costa Rica,2025,electricity_access,100.3055,98.837,102.0084
+Costa Rica,2026,electricity_access,100.3943,98.1618,103.0279
+Costa Rica,2027,electricity_access,100.4832,97.2339,104.0137
+Costa Rica,2023,gdp_per_capita,15602.0884,15108.0719,16173.2765
+Costa Rica,2024,gdp_per_capita,15855.4074,15345.7353,16383.1407
+Costa Rica,2025,gdp_per_capita,16109.4205,15588.6146,16637.8753
+Costa Rica,2026,gdp_per_capita,16362.7395,15874.3308,16854.93
+Costa Rica,2027,gdp_per_capita,16616.0584,16100.3648,17107.7665
+Cote d'Ivoire,2023,internet_usage,42.0719,23.8272,59.0189
+Cote d'Ivoire,2024,internet_usage,44.3216,27.1715,59.802
+Cote d'Ivoire,2025,internet_usage,46.5774,28.8328,63.0824
+Cote d'Ivoire,2026,internet_usage,48.8271,31.3334,66.3376
+Cote d'Ivoire,2027,internet_usage,51.0767,34.8402,68.8828
+Cote d'Ivoire,2023,electricity_access,71.8867,67.8343,76.1324
+Cote d'Ivoire,2024,electricity_access,72.9003,68.7558,77.6264
+Cote d'Ivoire,2025,electricity_access,73.9166,69.7083,78.135
+Cote d'Ivoire,2026,electricity_access,74.9302,70.8078,79.2885
+Cote d'Ivoire,2027,electricity_access,75.9438,71.35,80.3836
+Cote d'Ivoire,2023,gdp_per_capita,4125.7544,4033.9337,4214.3738
+Cote d'Ivoire,2024,gdp_per_capita,4246.6538,4145.9993,4341.8589
+Cote d'Ivoire,2025,gdp_per_capita,4367.8845,4260.5551,4482.4199
+Cote d'Ivoire,2026,gdp_per_capita,4488.7839,4355.0861,4630.0741
+Cote d'Ivoire,2027,gdp_per_capita,4609.6833,4440.7407,4778.4112
+Croatia,2023,internet_usage,85.2482,81.7477,88.8969
+Croatia,2024,internet_usage,87.2753,83.6245,90.9466
+Croatia,2025,internet_usage,89.3079,85.6313,93.0507
+Croatia,2026,internet_usage,91.3349,87.3983,94.969
+Croatia,2027,internet_usage,93.362,89.2714,97.6263
+Croatia,2023,electricity_access,100.0,99.939,100.0643
+Croatia,2024,electricity_access,100.0,99.8117,100.2001
+Croatia,2025,electricity_access,100.0,99.6492,100.3574
+Croatia,2026,electricity_access,100.0,99.4488,100.5409
+Croatia,2027,electricity_access,100.0,99.1935,100.7423
+Croatia,2023,gdp_per_capita,25109.6358,22612.1387,27482.0379
+Croatia,2024,gdp_per_capita,25567.9924,22852.6814,28163.8374
+Croatia,2025,gdp_per_capita,26027.6047,23499.6389,28745.821
+Croatia,2026,gdp_per_capita,26485.9612,24106.1107,28784.2328
+Croatia,2027,gdp_per_capita,26944.3177,24402.6581,29513.7354
+Cuba,2023,internet_usage,70.6663,56.3852,85.7964
+Cuba,2024,internet_usage,74.1468,59.4283,88.3094
+Cuba,2025,internet_usage,77.6369,63.0718,92.2866
+Cuba,2026,internet_usage,81.1174,66.8195,95.2963
+Cuba,2027,internet_usage,84.5979,69.8023,99.2066
+Cuba,2023,electricity_access,100.218,99.9647,100.5073
+Cuba,2024,electricity_access,100.3427,99.629,101.223
+Cuba,2025,electricity_access,100.4676,99.0842,101.9655
+Cuba,2026,electricity_access,100.5923,98.416,102.7639
+Cuba,2027,electricity_access,100.7169,97.7148,103.6415
+Cuba,2023,gdp_per_capita,8865.7139,7890.447,9911.9333
+Cuba,2024,gdp_per_capita,9066.5907,8082.6891,10121.2509
+Cuba,2025,gdp_per_capita,9268.0177,8265.1906,10239.3198
+Cuba,2026,gdp_per_capita,9468.8945,8509.3208,10487.1564
+Cuba,2027,gdp_per_capita,9669.7712,8707.9541,10644.2992
+Cyprus,2023,internet_usage,99.6786,94.8843,104.4473
+Cyprus,2024,internet_usage,103.2573,98.4075,107.8974
+Cyprus,2025,internet_usage,106.8458,102.3501,111.6825
+Cyprus,2026,internet_usage,110.4246,105.8087,114.8584
+Cyprus,2027,internet_usage,114.0033,109.5487,118.9397
+Cyprus,2023,electricity_access,100.0,100.0,100.0
+Cyprus,2024,electricity_access,100.0,100.0,100.0
+Cyprus,2025,electricity_access,100.0,100.0,100.0
+Cyprus,2026,electricity_access,100.0,100.0,100.0
+Cyprus,2027,electricity_access,100.0,100.0,100.0
+Cyprus,2023,gdp_per_capita,29872.1567,26753.3617,33086.6561
+Cyprus,2024,gdp_per_capita,30131.4223,26544.4722,33315.7899
+Cyprus,2025,gdp_per_capita,30391.3984,27075.2244,34032.8933
+Cyprus,2026,gdp_per_capita,30650.6641,27363.6328,33997.4399
+Cyprus,2027,gdp_per_capita,30909.9298,27660.7125,34354.7243
+Czechia,2023,internet_usage,98.8088,83.1317,114.266
+Czechia,2024,internet_usage,102.0296,86.7593,117.1208
+Czechia,2025,internet_usage,105.2593,88.2615,120.8303
+Czechia,2026,internet_usage,108.4801,92.8006,124.8565
+Czechia,2027,internet_usage,111.701,96.7046,128.6172
+Czechia,2023,electricity_access,100.0,100.0,100.0
+Czechia,2024,electricity_access,100.0,100.0,100.0
+Czechia,2025,electricity_access,100.0,100.0,100.0
+Czechia,2026,electricity_access,100.0,100.0,100.0
+Czechia,2027,electricity_access,100.0,100.0,100.0
+Czechia,2023,gdp_per_capita,33110.6531,31606.6726,34611.2331
+Czechia,2024,gdp_per_capita,33664.7959,32095.1403,35235.6993
+Czechia,2025,gdp_per_capita,34220.457,32669.093,35706.2056
+Czechia,2026,gdp_per_capita,34774.5998,33221.2265,36445.5428
+Czechia,2027,gdp_per_capita,35328.7427,33724.5472,37076.2249
+Democratic Republic of Congo,2023,internet_usage,19.6744,9.9978,29.1473
+Democratic Republic of Congo,2024,internet_usage,20.8005,11.1412,30.3032
+Democratic Republic of Congo,2025,internet_usage,21.9297,12.2301,31.511
+Democratic Republic of Congo,2026,internet_usage,23.0557,12.538,33.8288
+Democratic Republic of Congo,2027,internet_usage,24.1818,13.2566,33.0524
+Democratic Republic of Congo,2023,electricity_access,21.9943,19.3656,24.4701
+Democratic Republic of Congo,2024,electricity_access,22.6782,20.0865,25.0741
+Democratic Republic of Congo,2025,electricity_access,23.364,20.9207,25.8587
+Democratic Republic of Congo,2026,electricity_access,24.0479,21.6412,26.4636
+Democratic Republic of Congo,2027,electricity_access,24.7318,22.3499,27.1269
+Democratic Republic of Congo,2023,gdp_per_capita,838.874,814.5289,864.2259
+Democratic Republic of Congo,2024,gdp_per_capita,846.5211,820.3287,874.5012
+Democratic Republic of Congo,2025,gdp_per_capita,854.1892,825.5105,884.179
+Democratic Republic of Congo,2026,gdp_per_capita,861.8364,828.5661,896.8272
+Democratic Republic of Congo,2027,gdp_per_capita,869.4836,829.7254,913.5493
+Denmark,2023,internet_usage,109.613,92.4221,127.8354
+Denmark,2024,internet_usage,111.607,93.4535,129.1309
+Denmark,2025,internet_usage,113.6063,95.8514,131.5377
+Denmark,2026,internet_usage,115.6002,97.187,132.9639
+Denmark,2027,internet_usage,117.5942,98.0296,137.155
+Denmark,2023,electricity_access,100.0,100.0,100.0
+Denmark,2024,electricity_access,100.0,100.0,100.0
+Denmark,2025,electricity_access,100.0,100.0,100.0
+Denmark,2026,electricity_access,100.0,100.0,100.0
+Denmark,2027,electricity_access,100.0,100.0,100.0
+Denmark,2023,gdp_per_capita,50273.3838,48641.4327,51924.6203
+Denmark,2024,gdp_per_capita,50877.5741,49287.6397,52575.4727
+Denmark,2025,gdp_per_capita,51483.4196,49909.8512,53090.9977
+Denmark,2026,gdp_per_capita,52087.6098,50419.1321,53671.4439
+Denmark,2027,gdp_per_capita,52691.8001,50981.6095,54337.0669
+Djibouti,2023,internet_usage,60.0016,37.7076,81.0899
+Djibouti,2024,internet_usage,63.2798,43.0456,83.1706
+Djibouti,2025,internet_usage,66.5669,44.1082,86.5341
+Djibouti,2026,internet_usage,69.8451,48.7733,91.183
+Djibouti,2027,internet_usage,73.1232,52.1694,94.9566
+Djibouti,2023,electricity_access,65.6539,62.4838,68.7023
+Djibouti,2024,electricity_access,66.344,63.1876,69.4309
+Djibouti,2025,electricity_access,67.036,64.0106,70.157
+Djibouti,2026,electricity_access,67.7261,64.6244,70.7943
+Djibouti,2027,electricity_access,68.4162,65.2955,71.6868
+Djibouti,2023,gdp_per_capita,3734.1096,3626.7813,3842.5858
+Djibouti,2024,gdp_per_capita,3828.578,3716.0606,3944.8724
+Djibouti,2025,gdp_per_capita,3923.3053,3814.7911,4032.7007
+Djibouti,2026,gdp_per_capita,4017.7738,3910.4471,4139.1117
+Djibouti,2027,gdp_per_capita,4112.2423,3998.2441,4217.175
+Dominica,2023,internet_usage,87.5352,81.1527,94.2881
+Dominica,2024,internet_usage,90.7024,84.3164,96.7065
+Dominica,2025,internet_usage,93.8783,87.2964,100.0315
+Dominica,2026,internet_usage,97.0455,90.6355,103.5305
+Dominica,2027,internet_usage,100.2127,93.6872,106.6813
+Dominica,2023,electricity_access,101.8636,99.5315,104.2075
+Dominica,2024,electricity_access,102.5342,100.2816,104.8973
+Dominica,2025,electricity_access,103.2065,101.0753,105.3953
+Dominica,2026,electricity_access,103.877,101.6215,106.2986
+Dominica,2027,electricity_access,104.5476,102.3407,106.8666
+Dominica,2023,gdp_per_capita,9974.1359,8488.7537,11447.9499
+Dominica,2024,gdp_per_capita,10132.4705,8709.8152,11484.1768
+Dominica,2025,gdp_per_capita,10291.239,8772.7183,11731.4404
+Dominica,2026,gdp_per_capita,10449.5736,8943.2551,11958.3665
+Dominica,2027,gdp_per_capita,10607.9082,9068.763,12072.555
+Dominican Republic,2023,internet_usage,93.4948,87.7908,98.9625
+Dominican Republic,2024,internet_usage,98.1496,92.6205,103.8575
+Dominican Republic,2025,internet_usage,102.8171,96.9876,108.7514
+Dominican Republic,2026,internet_usage,107.4718,101.5443,113.2999
+Dominican Republic,2027,internet_usage,112.1265,106.3371,117.8864
+Dominican Republic,2023,electricity_access,99.3893,96.7864,102.0847
+Dominican Republic,2024,electricity_access,99.4859,96.96,102.1964
+Dominican Republic,2025,electricity_access,99.5828,96.9363,102.0856
+Dominican Republic,2026,electricity_access,99.6794,97.0207,102.4091
+Dominican Republic,2027,electricity_access,99.776,96.9965,102.8114
+Dominican Republic,2023,gdp_per_capita,17979.9451,17142.9082,18783.0879
+Dominican Republic,2024,gdp_per_capita,18504.3361,17679.7819,19363.018
+Dominican Republic,2025,gdp_per_capita,19030.1637,18195.3105,19864.9685
+Dominican Republic,2026,gdp_per_capita,19554.5546,18711.9973,20460.4792
+Dominican Republic,2027,gdp_per_capita,20078.9456,19267.8185,20921.2274
+Ecuador,2023,internet_usage,75.641,68.3518,83.0952
+Ecuador,2024,internet_usage,79.2196,71.994,86.7942
+Ecuador,2025,internet_usage,82.808,75.3478,90.2124
+Ecuador,2026,internet_usage,86.3866,78.5329,93.9036
+Ecuador,2027,internet_usage,89.9652,81.7078,97.4316
+Ecuador,2023,electricity_access,99.959,99.308,100.6592
+Ecuador,2024,electricity_access,100.1303,99.4957,100.8081
+Ecuador,2025,electricity_access,100.302,99.6205,100.9962
+Ecuador,2026,electricity_access,100.4733,99.7377,101.2583
+Ecuador,2027,electricity_access,100.6445,99.8262,101.5497
+Ecuador,2023,gdp_per_capita,9967.2284,9578.2247,10371.3497
+Ecuador,2024,gdp_per_capita,9872.7371,9428.7983,10329.2581
+Ecuador,2025,gdp_per_capita,9777.987,9336.7039,10230.351
+Ecuador,2026,gdp_per_capita,9683.4957,9202.58,10141.9053
+Ecuador,2027,gdp_per_capita,9589.0045,9046.6275,10122.8126
+Egypt,2023,internet_usage,68.5811,58.3873,78.4025
+Egypt,2024,internet_usage,71.8255,61.7448,82.5988
+Egypt,2025,internet_usage,75.0788,64.7563,85.4945
+Egypt,2026,internet_usage,78.3232,67.8493,89.0968
+Egypt,2027,internet_usage,81.5676,70.7352,92.3091
+Egypt,2023,electricity_access,100.1303,99.4058,100.8137
+Egypt,2024,electricity_access,100.1721,99.4563,100.8664
+Egypt,2025,electricity_access,100.214,99.5246,100.9859
+Egypt,2026,electricity_access,100.2558,99.4904,100.9518
+Egypt,2027,electricity_access,100.2976,99.5972,100.9983
+Egypt,2023,gdp_per_capita,13143.1608,12715.5479,13527.0449
+Egypt,2024,gdp_per_capita,13362.8796,12964.8689,13775.4828
+Egypt,2025,gdp_per_capita,13583.2003,13164.2072,13991.233
+Egypt,2026,gdp_per_capita,13802.9191,13383.0884,14213.8183
+Egypt,2027,gdp_per_capita,14022.6379,13611.8022,14419.8559
+El Salvador,2023,internet_usage,56.8697,45.0459,68.9354
+El Salvador,2024,internet_usage,59.7351,48.1207,71.0816
+El Salvador,2025,internet_usage,62.6083,51.7946,73.7792
+El Salvador,2026,internet_usage,65.4737,53.0679,76.8109
+El Salvador,2027,internet_usage,68.3391,56.525,79.621
+El Salvador,2023,electricity_access,100.3085,99.121,101.5355
+El Salvador,2024,electricity_access,100.9164,99.546,102.1878
+El Salvador,2025,electricity_access,101.5259,100.2159,102.944
+El Salvador,2026,electricity_access,102.1338,100.9,103.4217
+El Salvador,2027,electricity_access,102.7417,101.417,104.0678
+El Salvador,2023,gdp_per_capita,9232.53,8905.1183,9561.3199
+El Salvador,2024,gdp_per_capita,9372.9281,9025.9698,9703.1847
+El Salvador,2025,gdp_per_capita,9513.711,9175.8277,9848.6208
+El Salvador,2026,gdp_per_capita,9654.1092,9334.499,9992.745
+El Salvador,2027,gdp_per_capita,9794.5073,9457.0206,10136.9747
+Equatorial Guinea,2023,internet_usage,50.9107,34.1865,66.5656
+Equatorial Guinea,2024,internet_usage,53.6769,36.9965,70.1518
+Equatorial Guinea,2025,internet_usage,56.4508,40.4689,73.709
+Equatorial Guinea,2026,internet_usage,59.2171,43.928,76.1251
+Equatorial Guinea,2027,internet_usage,61.9834,45.192,77.8783
+Equatorial Guinea,2023,electricity_access,67.0865,66.8376,67.3396
+Equatorial Guinea,2024,electricity_access,67.2091,66.4659,67.9902
+Equatorial Guinea,2025,electricity_access,67.332,65.9446,68.7451
+Equatorial Guinea,2026,electricity_access,67.4547,65.4422,69.5441
+Equatorial Guinea,2027,electricity_access,67.5773,64.7855,70.4964
+Equatorial Guinea,2023,gdp_per_capita,33724.4652,14675.2458,52534.651
+Equatorial Guinea,2024,gdp_per_capita,33730.9993,15162.8942,52857.796
+Equatorial Guinea,2025,gdp_per_capita,33737.5513,14580.166,53036.3549
+Equatorial Guinea,2026,gdp_per_capita,33744.0854,13984.0202,54037.7338
+Equatorial Guinea,2027,gdp_per_capita,33750.6195,13663.4193,53343.088
+Estonia,2023,internet_usage,92.6923,90.6308,94.8433
+Estonia,2024,internet_usage,93.4721,91.1586,95.8151
+Estonia,2025,internet_usage,94.2541,90.8389,97.643
+Estonia,2026,internet_usage,95.0339,90.7855,99.4872
+Estonia,2027,internet_usage,95.8137,89.9579,101.3571
+Estonia,2023,electricity_access,100.0,100.0,100.0
+Estonia,2024,electricity_access,100.0,100.0,100.0
+Estonia,2025,electricity_access,100.0,100.0,100.0
+Estonia,2026,electricity_access,100.0,100.0,100.0
+Estonia,2027,electricity_access,100.0,100.0,100.0
+Estonia,2023,gdp_per_capita,29721.8486,26400.9838,33238.0813
+Estonia,2024,gdp_per_capita,30220.671,26881.6948,33592.9335
+Estonia,2025,gdp_per_capita,30720.86,27407.9956,34260.8393
+Estonia,2026,gdp_per_capita,31219.6823,27761.3377,34339.3468
+Estonia,2027,gdp_per_capita,31718.5047,28338.816,35014.2585
+Eswatini,2023,internet_usage,51.8873,42.4399,61.8829
+Eswatini,2024,internet_usage,54.5083,44.372,63.8569
+Eswatini,2025,internet_usage,57.1364,47.6092,66.0719
+Eswatini,2026,internet_usage,59.7574,49.7448,68.7217
+Eswatini,2027,internet_usage,62.3784,52.9306,71.6373
+Eswatini,2023,electricity_access,88.3567,84.013,92.8702
+Eswatini,2024,electricity_access,91.4454,86.933,96.1744
+Eswatini,2025,electricity_access,94.5424,90.1369,99.0051
+Eswatini,2026,electricity_access,97.631,93.059,102.2806
+Eswatini,2027,electricity_access,100.7196,96.2294,105.4744
+Eswatini,2023,gdp_per_capita,8692.0613,8500.5814,8889.043
+Eswatini,2024,gdp_per_capita,8785.4386,8595.0915,8981.4401
+Eswatini,2025,gdp_per_capita,8879.0716,8667.2295,9077.8674
+Eswatini,2026,gdp_per_capita,8972.4488,8747.2153,9171.6528
+Eswatini,2027,gdp_per_capita,9065.8261,8817.8648,9291.3461
+Ethiopia,2023,internet_usage,18.0896,12.3205,23.9614
+Ethiopia,2024,internet_usage,19.0671,13.2374,24.8018
+Ethiopia,2025,internet_usage,20.0473,14.0245,26.3639
+Ethiopia,2026,internet_usage,21.0249,14.9778,26.8624
+Ethiopia,2023,electricity_access,53.3851,46.0004,60.5923
+Ethiopia,2024,electricity_access,55.4313,48.302,62.2714
+Ethiopia,2025,electricity_access,57.4831,50.2455,64.6566
+Ethiopia,2026,electricity_access,59.5294,52.5485,66.4872
+Ethiopia,2023,gdp_per_capita,2410.9865,2373.9005,2446.4348
+Ethiopia,2024,gdp_per_capita,2508.9297,2447.8011,2569.4799
+Ethiopia,2025,gdp_per_capita,2607.1412,2513.0108,2705.3696
+Ethiopia,2026,gdp_per_capita,2705.0845,2569.3294,2835.6057
+Finland,2023,internet_usage,101.9683,85.4869,118.6442
+Finland,2024,internet_usage,103.7722,87.672,119.5664
+Finland,2025,internet_usage,105.581,89.129,121.7335
+Finland,2026,internet_usage,107.3849,90.0363,123.6483
+Finland,2027,internet_usage,109.1888,93.4432,125.8562
+Finland,2023,electricity_access,100.0,100.0,100.0
+Finland,2024,electricity_access,100.0,100.0,100.0
+Finland,2025,electricity_access,100.0,100.0,100.0
+Finland,2026,electricity_access,100.0,100.0,100.0
+Finland,2027,electricity_access,100.0,100.0,100.0
+Finland,2023,gdp_per_capita,39896.0718,37578.7118,42037.6005
+Finland,2024,gdp_per_capita,40055.6185,37817.084,42206.0545
+Finland,2025,gdp_per_capita,40215.6024,37972.9869,42446.8081
+Finland,2026,gdp_per_capita,40375.1491,38182.0579,42590.5772
+Finland,2027,gdp_per_capita,40534.6958,38311.4288,42704.9838
+France,2023,internet_usage,101.5748,81.8088,120.8485
+France,2024,internet_usage,104.5818,85.8959,122.4569
+France,2025,internet_usage,107.5971,89.1435,126.4056
+France,2026,internet_usage,110.6041,90.0602,130.8096
+France,2027,internet_usage,113.6111,95.5368,132.5631
+France,2023,electricity_access,100.0,100.0,100.0
+France,2024,electricity_access,100.0,100.0,100.0
+France,2025,electricity_access,100.0,100.0,100.0
+France,2026,electricity_access,100.0,100.0,100.0
+France,2027,electricity_access,100.0,100.0,100.0
+France,2023,gdp_per_capita,38691.6207,37388.0885,40051.8686
+France,2024,gdp_per_capita,38867.8074,37534.4699,40111.4246
+France,2025,gdp_per_capita,39044.4767,37676.958,40473.0371
+France,2026,gdp_per_capita,39220.6633,37831.6936,40519.6706
+France,2027,gdp_per_capita,39396.85,38084.106,40700.1939
+Gabon,2023,internet_usage,70.284,57.1428,82.0109
+Gabon,2024,internet_usage,73.8544,61.1126,86.8083
+Gabon,2025,internet_usage,77.4346,65.0874,90.1295
+Gabon,2026,internet_usage,81.0049,68.0471,93.5822
+Gabon,2027,internet_usage,84.5753,71.6974,96.5749
+Gabon,2023,electricity_access,92.6819,89.5232,95.9247
+Gabon,2024,electricity_access,93.2359,90.2575,96.3467
+Gabon,2025,electricity_access,93.7915,90.8507,96.7253
+Gabon,2026,electricity_access,94.3455,91.52,97.6817
+Gabon,2027,electricity_access,94.8996,91.8376,97.9464
+Gabon,2023,gdp_per_capita,17994.8605,15919.9011,20210.5266
+Gabon,2024,gdp_per_capita,18281.5691,16189.8288,20510.4692
+Gabon,2025,gdp_per_capita,18569.0633,16576.465,20810.1257
+Gabon,2026,gdp_per_capita,18855.7719,16608.7222,21045.6642
+Gabon,2027,gdp_per_capita,19142.4806,16950.9481,21253.5833
+Gambia,2023,internet_usage,36.0762,28.6252,43.7561
+Gambia,2024,internet_usage,37.8613,30.184,45.5169
+Gambia,2025,internet_usage,39.6513,32.3807,47.2555
+Gambia,2026,internet_usage,41.4365,33.877,48.4947
+Gambia,2027,internet_usage,43.2216,35.2438,50.6136
+Gambia,2023,electricity_access,68.0073,63.4168,72.5417
+Gambia,2024,electricity_access,69.7536,65.3711,74.2494
+Gambia,2025,electricity_access,71.5046,67.0499,75.7595
+Gambia,2026,electricity_access,73.2508,68.9951,77.6843
+Gambia,2027,electricity_access,74.9971,70.2851,79.2869
+Gambia,2023,gdp_per_capita,2001.4161,1927.0832,2070.2133
+Gambia,2024,gdp_per_capita,2026.4109,1958.2617,2096.1847
+Gambia,2025,gdp_per_capita,2051.4742,1974.4939,2125.3084
+Gambia,2026,gdp_per_capita,2076.469,2002.1608,2149.1069
+Gambia,2027,gdp_per_capita,2101.4639,2030.6867,2176.1451
+Georgia,2023,internet_usage,85.697,78.9309,92.0749
+Georgia,2024,internet_usage,90.2375,83.9169,96.9688
+Georgia,2025,internet_usage,94.7905,87.7116,100.8858
+Georgia,2026,internet_usage,99.331,92.875,105.8074
+Georgia,2027,internet_usage,103.8716,97.2681,110.435
+Georgia,2023,electricity_access,99.992,99.3075,100.684
+Georgia,2024,electricity_access,99.991,99.3254,100.6877
+Georgia,2025,electricity_access,99.9901,99.2338,100.6832
+Georgia,2026,electricity_access,99.9891,99.2229,100.8007
+Georgia,2027,electricity_access,99.9881,99.138,100.8524
+Georgia,2023,gdp_per_capita,13881.0736,13147.2574,14551.345
+Georgia,2024,gdp_per_capita,14273.995,13617.4947,14932.3951
+Georgia,2025,gdp_per_capita,14667.9928,13988.5773,15326.4053
+Georgia,2026,gdp_per_capita,15060.9141,14422.7627,15738.2882
+Georgia,2027,gdp_per_capita,15453.8354,14736.8062,16188.3715
+Germany,2023,internet_usage,102.1848,86.3898,118.1953
+Germany,2024,internet_usage,104.4497,88.1011,121.112
+Germany,2025,internet_usage,106.7208,90.5142,122.6219
+Germany,2026,internet_usage,108.9857,92.3973,125.9497
+Germany,2027,internet_usage,111.2506,95.393,127.4458
+Germany,2023,electricity_access,100.0,100.0,100.0
+Germany,2024,electricity_access,100.0,100.0,100.0
+Germany,2025,electricity_access,100.0,100.0,100.0
+Germany,2026,electricity_access,100.0,100.0,100.0
+Germany,2027,electricity_access,100.0,100.0,100.0
+Germany,2023,gdp_per_capita,47228.2658,45873.1211,48672.7592
+Germany,2024,gdp_per_capita,47536.637,46182.473,48876.5792
+Germany,2025,gdp_per_capita,47845.8531,46438.8023,49217.5558
+Germany,2026,gdp_per_capita,48154.2243,46806.1771,49607.4523
+Germany,2027,gdp_per_capita,48462.5956,47012.4846,49950.1943
+Ghana,2023,internet_usage,53.9048,32.5271,72.955
+Ghana,2024,internet_usage,56.8079,36.3068,77.5253
+Ghana,2025,internet_usage,59.719,39.1614,79.1706
+Ghana,2026,internet_usage,62.6222,42.8239,82.7658
+Ghana,2027,internet_usage,65.5253,45.8058,88.0565
+Ghana,2023,electricity_access,90.9805,83.9195,98.4642
+Ghana,2024,electricity_access,93.1402,86.0631,100.309
+Ghana,2025,electricity_access,95.3057,88.1861,103.0066
+Ghana,2026,electricity_access,97.4654,89.9209,104.4372
+Ghana,2027,electricity_access,99.625,92.6788,106.8091
+Ghana,2023,gdp_per_capita,4476.5044,4258.1989,4688.8183
+Ghana,2024,gdp_per_capita,4586.118,4371.1888,4782.9289
+Ghana,2025,gdp_per_capita,4696.0318,4463.4591,4924.9074
+Ghana,2026,gdp_per_capita,4805.6453,4581.0302,5029.3151
+Ghana,2027,gdp_per_capita,4915.2589,4701.8279,5144.0099
+Greece,2023,internet_usage,85.1997,82.8097,87.5691
+Greece,2024,internet_usage,87.6451,85.1529,90.098
+Greece,2025,internet_usage,90.0972,87.5004,92.5879
+Greece,2026,internet_usage,92.5426,89.8051,95.2064
+Greece,2027,internet_usage,94.988,92.0739,97.6897
+Greece,2023,electricity_access,100.0,100.0,100.0
+Greece,2024,electricity_access,100.0,100.0,100.0
+Greece,2025,electricity_access,100.0,100.0,100.0
+Greece,2026,electricity_access,100.0,100.0,100.0
+Greece,2027,electricity_access,100.0,100.0,100.0
+Greece,2023,gdp_per_capita,23562.2962,19410.5635,27828.7471
+Greece,2024,gdp_per_capita,23495.8812,19141.119,28373.1021
+Greece,2025,gdp_per_capita,23429.2842,19191.9667,27893.8665
+Greece,2026,gdp_per_capita,23362.8692,18780.2799,27724.6014
+Greece,2027,gdp_per_capita,23296.4542,18787.1739,27439.0973
+Guatemala,2023,internet_usage,50.9487,41.0735,60.8189
+Guatemala,2024,internet_usage,53.4714,44.6968,63.3071
+Guatemala,2025,internet_usage,56.001,46.3058,66.5589
+Guatemala,2026,internet_usage,58.5237,49.0575,68.0328
+Guatemala,2027,internet_usage,61.0464,51.1128,71.0325
+Guatemala,2023,electricity_access,100.4434,97.8842,102.809
+Guatemala,2024,electricity_access,101.7577,99.2867,104.4186
+Guatemala,2025,electricity_access,103.0757,100.5926,105.6993
+Guatemala,2026,electricity_access,104.39,101.7708,106.8462
+Guatemala,2027,electricity_access,105.7043,103.3015,108.2856
+Guatemala,2023,gdp_per_capita,7908.6117,7730.3256,8094.6717
+Guatemala,2024,gdp_per_capita,8012.0719,7818.6186,8196.5796
+Guatemala,2025,gdp_per_capita,8115.8156,7931.1106,8300.4929
+Guatemala,2026,gdp_per_capita,8219.2758,8029.1579,8412.503
+Guatemala,2027,gdp_per_capita,8322.736,8140.0321,8520.61
+Guinea,2023,internet_usage,22.9674,14.6182,30.8326
+Guinea,2024,internet_usage,24.2269,16.4163,32.0532
+Guinea,2025,internet_usage,25.4899,17.6214,33.679
+Guinea,2026,internet_usage,26.7493,18.3446,34.667
+Guinea,2027,internet_usage,28.0088,19.3169,35.9092
+Guinea,2023,electricity_access,48.4181,44.7269,51.9871
+Guinea,2024,electricity_access,50.041,46.7682,53.751
+Guinea,2025,electricity_access,51.6683,48.2369,54.9417
+Guinea,2026,electricity_access,53.2912,50.0133,56.7209
+Guinea,2027,electricity_access,54.914,51.5868,58.5463
+Guinea,2023,gdp_per_capita,1880.3829,1825.8118,1929.2353
+Guinea,2024,gdp_per_capita,1934.8576,1880.6027,1991.0728
+Guinea,2025,gdp_per_capita,1989.4815,1932.361,2046.282
+Guinea,2026,gdp_per_capita,2043.9563,1984.8077,2099.7407
+Guinea,2027,gdp_per_capita,2098.431,2038.3573,2158.6927
+Haiti,2023,internet_usage,33.259,23.8851,42.3991
+Haiti,2024,internet_usage,34.8693,25.7748,44.729
+Haiti,2023,electricity_access,48.5211,47.1273,50.1026
+Haiti,2024,electricity_access,49.4766,47.9286,50.9657
+Haiti,2023,gdp_per_capita,1798.8512,1741.4396,1858.4092
+Haiti,2024,gdp_per_capita,1806.8583,1732.894,1885.2796
+Honduras,2023,internet_usage,48.3413,39.2483,58.1512
+Honduras,2024,internet_usage,50.6961,41.8342,60.2439
+Honduras,2025,internet_usage,53.0574,44.1046,62.6021
+Honduras,2026,internet_usage,55.4123,46.0606,64.2568
+Honduras,2027,internet_usage,57.7671,48.3509,67.1784
+Honduras,2023,electricity_access,96.3959,92.8732,100.1812
+Honduras,2024,electricity_access,97.4451,93.8595,100.9176
+Honduras,2025,electricity_access,98.4971,94.7748,102.3627
+Honduras,2026,electricity_access,99.5463,95.8573,103.2717
+Honduras,2027,electricity_access,100.5955,96.5183,104.2993
+Honduras,2023,gdp_per_capita,5245.4097,4987.3122,5507.707
+Honduras,2024,gdp_per_capita,5314.559,5065.0779,5557.3108
+Honduras,2025,gdp_per_capita,5383.8977,5140.9107,5624.1935
+Honduras,2026,gdp_per_capita,5453.047,5190.4791,5713.6621
+Honduras,2027,gdp_per_capita,5522.1962,5261.0101,5780.1539
+Hong Kong,2023,internet_usage,100.5167,95.3052,105.5228
+Hong Kong,2024,internet_usage,102.8001,97.885,107.7889
+Hong Kong,2025,internet_usage,105.0897,100.0059,110.7012
+Hong Kong,2026,internet_usage,107.3731,102.2145,112.5971
+Hong Kong,2027,internet_usage,109.6565,104.3991,114.8501
+Hong Kong,2023,electricity_access,100.0,100.0,100.0
+Hong Kong,2024,electricity_access,100.0,100.0,100.0
+Hong Kong,2025,electricity_access,100.0,100.0,100.0
+Hong Kong,2026,electricity_access,100.0,100.0,100.0
+Hong Kong,2027,electricity_access,100.0,100.0,100.0
+Hong Kong,2023,gdp_per_capita,50436.3366,47947.3513,52793.6309
+Hong Kong,2024,gdp_per_capita,50777.3031,48261.0167,53225.9058
+Hong Kong,2025,gdp_per_capita,51119.2038,48646.2022,53392.7219
+Hong Kong,2026,gdp_per_capita,51460.1703,49004.6455,53934.3844
+Hong Kong,2027,gdp_per_capita,51801.1369,49378.1422,54292.3766
+Hungary,2023,internet_usage,101.3666,85.7734,116.7028
+Hungary,2024,internet_usage,104.9182,89.8391,121.1905
+Hungary,2025,internet_usage,108.4796,92.7764,123.3884
+Hungary,2026,internet_usage,112.0312,96.409,126.9221
+Hungary,2027,internet_usage,115.5829,100.8466,130.9758
+Hungary,2023,electricity_access,100.0,99.971,100.0334
+Hungary,2024,electricity_access,100.0,99.9042,100.1094
+Hungary,2025,electricity_access,100.0,99.825,100.1897
+Hungary,2026,electricity_access,100.0,99.7233,100.2937
+Hungary,2027,electricity_access,100.0,99.6105,100.3978
+Hungary,2023,gdp_per_capita,28960.0343,27428.9541,30582.3369
+Hungary,2024,gdp_per_capita,29623.6616,28002.1398,31109.0001
+Hungary,2025,gdp_per_capita,30289.1069,28701.3275,31807.5383
+Hungary,2026,gdp_per_capita,30952.7342,29369.0711,32606.067
+Hungary,2027,gdp_per_capita,31616.3614,30025.7914,33206.5108
+Iceland,2023,internet_usage,109.9342,92.6778,127.2561
+Iceland,2024,internet_usage,111.6208,94.5261,130.6015
+Iceland,2025,internet_usage,113.3119,96.0886,131.2168
+Iceland,2026,internet_usage,114.9985,96.99,132.0698
+Iceland,2027,internet_usage,116.685,97.7222,134.6574
+Iceland,2023,electricity_access,100.0,100.0,100.0
+Iceland,2024,electricity_access,100.0,100.0,100.0
+Iceland,2025,electricity_access,100.0,100.0,100.0
+Iceland,2026,electricity_access,100.0,100.0,100.0
+Iceland,2027,electricity_access,100.0,100.0,100.0
+Iceland,2023,gdp_per_capita,42929.55,39544.8358,46426.6699
+Iceland,2024,gdp_per_capita,43297.9569,39759.6923,46599.4851
+Iceland,2025,gdp_per_capita,43667.3731,40047.4552,47499.4951
+Iceland,2026,gdp_per_capita,44035.78,40446.2816,47776.1156
+Iceland,2027,gdp_per_capita,44404.1869,40693.4475,47870.8478
+India,2023,internet_usage,36.1019,22.8581,48.6788
+India,2024,internet_usage,37.9841,23.2878,52.0345
+India,2025,internet_usage,39.8715,25.1027,54.2222
+India,2026,internet_usage,41.7537,28.3104,55.9097
+India,2027,internet_usage,43.6359,30.817,57.1939
+India,2023,electricity_access,102.9209,100.7677,105.0568
+India,2024,electricity_access,104.8681,102.7496,106.9858
+India,2025,electricity_access,106.8206,104.7227,108.8068
+India,2026,electricity_access,108.7678,106.8361,110.7299
+India,2027,electricity_access,110.7151,108.4227,112.7855
+India,2023,gdp_per_capita,8032.2709,7654.0516,8374.9333
+India,2024,gdp_per_capita,8298.8671,7945.5299,8666.2241
+India,2025,gdp_per_capita,8566.1937,8221.7772,8896.9287
+India,2026,gdp_per_capita,8832.7899,8468.4783,9220.877
+India,2027,gdp_per_capita,9099.3861,8712.3014,9468.9038
+Indonesia,2023,internet_usage,53.1047,37.0932,68.4631
+Indonesia,2024,internet_usage,55.8669,40.1954,71.5938
+Indonesia,2025,internet_usage,58.6367,42.8851,74.6032
+Indonesia,2026,internet_usage,61.399,45.9052,77.0502
+Indonesia,2027,internet_usage,64.1612,48.1588,79.0992
+Indonesia,2023,electricity_access,99.9808,97.9881,101.9841
+Indonesia,2024,electricity_access,100.3349,98.2913,102.4197
+Indonesia,2025,electricity_access,100.6899,98.7073,102.8433
+Indonesia,2026,electricity_access,101.044,98.9183,103.1179
+Indonesia,2027,electricity_access,101.3981,99.2685,103.6285
+Indonesia,2023,gdp_per_capita,13050.3182,12804.3954,13319.4733
+Indonesia,2024,gdp_per_capita,13345.4147,13090.9475,13566.9336
+Indonesia,2025,gdp_per_capita,13641.3197,13373.7683,13892.0664
+Indonesia,2026,gdp_per_capita,13936.4162,13637.6359,14244.4184
+Indonesia,2027,gdp_per_capita,14231.5126,13870.7561,14580.2814
+Iran,2023,internet_usage,80.2075,63.2335,96.2525
+Iran,2024,internet_usage,84.2112,69.2135,100.8099
+Iran,2025,internet_usage,88.2259,72.862,103.6112
+Iran,2026,internet_usage,92.2296,76.7824,108.5019
+Iran,2027,internet_usage,96.2334,79.8374,112.8854
+Iran,2023,electricity_access,100.0325,99.7127,100.3633
+Iran,2024,electricity_access,100.0465,99.0284,101.0268
+Iran,2025,electricity_access,100.0605,98.2081,101.9146
+Iran,2026,electricity_access,100.0744,97.2556,102.8667
+Iran,2027,electricity_access,100.0884,96.387,104.0124
+Iran,2023,gdp_per_capita,20275.4768,17551.3699,22987.0777
+Iran,2024,gdp_per_capita,20666.2752,18172.3594,23315.2307
+Iran,2025,gdp_per_capita,21058.1443,18467.4854,23784.2899
+Iran,2026,gdp_per_capita,21448.9428,18683.1987,24043.0625
+Iran,2027,gdp_per_capita,21839.7412,18969.3237,24470.6455
+Ireland,2023,internet_usage,107.9931,94.8918,121.4432
+Ireland,2024,internet_usage,111.4718,98.1583,124.3217
+Ireland,2025,internet_usage,114.96,101.9153,128.2075
+Ireland,2026,internet_usage,118.4386,106.3202,131.9914
+Ireland,2027,internet_usage,121.9173,108.4742,134.5178
+Ireland,2023,electricity_access,100.0,100.0,100.0
+Ireland,2024,electricity_access,100.0,100.0,100.0
+Ireland,2025,electricity_access,100.0,100.0,100.0
+Ireland,2026,electricity_access,100.0,100.0,100.0
+Ireland,2027,electricity_access,100.0,100.0,100.0
+Ireland,2023,gdp_per_capita,59520.3918,54683.2331,64413.3716
+Ireland,2024,gdp_per_capita,60274.9171,55552.0326,65140.3815
+Ireland,2025,gdp_per_capita,61031.5096,56208.4111,65650.7001
+Ireland,2026,gdp_per_capita,61786.0349,56921.1222,66707.445
+Ireland,2027,gdp_per_capita,62540.5602,57592.0929,67331.3927
+Italy,2023,internet_usage,81.5587,75.9239,87.4068
+Italy,2024,internet_usage,84.0746,78.4701,89.6289
+Italy,2025,internet_usage,86.5973,81.2117,92.8432
+Italy,2026,internet_usage,89.1132,83.2623,94.735
+Italy,2027,internet_usage,91.629,86.2592,97.2238
+Italy,2023,electricity_access,100.0,100.0,100.0
+Italy,2024,electricity_access,100.0,100.0,100.0
+Italy,2025,electricity_access,100.0,100.0,100.0
+Italy,2026,electricity_access,100.0,100.0,100.0
+Italy,2027,electricity_access,100.0,100.0,100.0
+Italy,2023,gdp_per_capita,34684.982,32699.556,36763.2473
+Italy,2024,gdp_per_capita,34700.5027,32827.3865,36568.0999
+Italy,2025,gdp_per_capita,34716.0659,32819.087,36726.365
+Italy,2026,gdp_per_capita,34731.5866,32768.5428,36670.7526
+Italy,2027,gdp_per_capita,34747.1073,32755.8953,36757.6219
+Jamaica,2023,internet_usage,80.6766,70.3458,91.3427
+Jamaica,2024,internet_usage,84.4034,73.993,95.0434
+Jamaica,2025,internet_usage,88.1404,76.6571,98.7596
+Jamaica,2026,internet_usage,91.8672,81.2994,102.1872
+Jamaica,2027,internet_usage,95.5939,84.4802,105.7996
+Jamaica,2023,electricity_access,101.5847,100.1861,103.1352
+Jamaica,2024,electricity_access,102.3661,100.8994,103.9391
+Jamaica,2025,electricity_access,103.1497,101.7451,104.643
+Jamaica,2026,electricity_access,103.9311,102.4751,105.4563
+Jamaica,2027,electricity_access,104.7125,103.209,106.3014
+Jamaica,2023,gdp_per_capita,7414.4791,7074.9734,7761.4929
+Jamaica,2024,gdp_per_capita,7431.5219,7067.2168,7790.0985
+Jamaica,2025,gdp_per_capita,7448.6115,7115.0887,7809.434
+Jamaica,2026,gdp_per_capita,7465.6543,7115.6102,7792.3273
+Jamaica,2027,gdp_per_capita,7482.6972,7146.4593,7816.1459
+Japan,2023,internet_usage,102.939,86.2975,119.8307
+Japan,2024,internet_usage,105.2869,86.9196,120.4681
+Japan,2025,internet_usage,107.6414,90.3524,123.9022
+Japan,2026,internet_usage,109.9894,92.8346,127.9619
+Japan,2027,internet_usage,112.3373,95.8439,127.953
+Japan,2023,electricity_access,100.0,100.0,100.0
+Japan,2024,electricity_access,100.0,100.0,100.0
+Japan,2025,electricity_access,100.0,100.0,100.0
+Japan,2026,electricity_access,100.0,100.0,100.0
+Japan,2027,electricity_access,100.0,100.0,100.0
+Japan,2023,gdp_per_capita,38645.6014,37348.1619,40016.7745
+Japan,2024,gdp_per_capita,38883.7976,37541.4611,40194.6137
+Japan,2025,gdp_per_capita,39122.6463,37764.7473,40300.0917
+Japan,2026,gdp_per_capita,39360.8424,37971.5403,40602.5253
+Japan,2027,gdp_per_capita,39599.0385,38265.9414,40958.1234
+Jordan,2023,internet_usage,93.7396,90.8124,96.749
+Jordan,2024,internet_usage,98.8965,95.9677,101.9109
+Jordan,2025,internet_usage,104.0675,100.9448,107.127
+Jordan,2026,internet_usage,109.2244,105.6445,112.7636
+Jordan,2027,internet_usage,114.3813,110.3765,118.2823
+Jordan,2023,electricity_access,99.9827,99.4816,100.4621
+Jordan,2024,electricity_access,99.9956,99.4565,100.4743
+Jordan,2025,electricity_access,100.0085,99.5119,100.5149
+Jordan,2026,electricity_access,100.0214,99.5363,100.5458
+Jordan,2027,electricity_access,100.0343,99.4838,100.583
+Jordan,2023,gdp_per_capita,9898.7424,7698.1664,12272.9807
+Jordan,2024,gdp_per_capita,9909.4988,7510.1869,12358.4035
+Jordan,2025,gdp_per_capita,9920.2846,7696.2533,12491.7616
+Jordan,2026,gdp_per_capita,9931.0409,7697.5427,12344.4134
+Jordan,2027,gdp_per_capita,9941.7972,7656.0896,12370.9695
+Kazakhstan,2023,internet_usage,103.7651,85.2372,123.1136
+Kazakhstan,2024,internet_usage,108.8855,91.4204,127.1778
+Kazakhstan,2025,internet_usage,114.0199,96.5572,133.3751
+Kazakhstan,2026,internet_usage,119.1402,102.0393,137.3146
+Kazakhstan,2027,internet_usage,124.2606,106.3822,141.921
+Kazakhstan,2023,electricity_access,100.0,99.867,100.1313
+Kazakhstan,2024,electricity_access,100.0,99.6188,100.4076
+Kazakhstan,2025,electricity_access,100.0,99.3111,100.7655
+Kazakhstan,2026,electricity_access,100.0,98.8027,101.2291
+Kazakhstan,2027,electricity_access,100.0,98.3285,101.7176
+Kazakhstan,2023,gdp_per_capita,26907.6996,26255.2676,27576.9194
+Kazakhstan,2024,gdp_per_capita,27302.8386,26648.2847,27964.2335
+Kazakhstan,2025,gdp_per_capita,27699.0603,26948.0401,28401.7648
+Kazakhstan,2026,gdp_per_capita,28094.1993,27267.0133,28902.1574
+Kazakhstan,2027,gdp_per_capita,28489.3383,27616.9728,29416.0635
+Kenya,2023,internet_usage,24.7628,21.6528,27.8663
+Kenya,2024,internet_usage,25.9311,22.7489,29.0354
+Kenya,2023,electricity_access,67.0782,55.3339,78.5177
+Kenya,2024,electricity_access,69.5524,57.5366,81.3033
+Kenya,2023,gdp_per_capita,3477.5463,3406.4686,3557.4728
+Kenya,2024,gdp_per_capita,3547.4814,3468.0389,3629.6165
+Kuwait,2023,internet_usage,118.2766,107.7321,129.022
+Kuwait,2024,internet_usage,123.1665,111.7235,133.3606
+Kuwait,2025,internet_usage,128.0699,116.7397,139.4071
+Kuwait,2026,internet_usage,132.9599,121.3396,143.9128
+Kuwait,2027,internet_usage,137.8499,127.1393,149.2796
+Kuwait,2023,electricity_access,100.0,100.0,100.0
+Kuwait,2024,electricity_access,100.0,100.0,100.0
+Kuwait,2025,electricity_access,100.0,100.0,100.0
+Kuwait,2026,electricity_access,100.0,100.0,100.0
+Kuwait,2027,electricity_access,100.0,100.0,100.0
+Kuwait,2023,gdp_per_capita,84000.7411,65308.427,102620.4755
+Kuwait,2024,gdp_per_capita,85426.2272,65818.8317,104702.85
+Kuwait,2025,gdp_per_capita,86855.6187,68230.3171,104853.5089
+Kuwait,2026,gdp_per_capita,88281.1048,67900.5212,108054.4742
+Kuwait,2027,gdp_per_capita,89706.5909,71450.6901,109931.5944
+Kyrgyzstan,2023,internet_usage,72.3746,55.2188,90.1785
+Kyrgyzstan,2024,internet_usage,75.9781,58.4276,93.0944
+Kyrgyzstan,2025,internet_usage,79.5915,61.9682,98.3292
+Kyrgyzstan,2026,internet_usage,83.1951,65.4378,100.5449
+Kyrgyzstan,2027,internet_usage,86.7986,70.6664,104.1687
+Kyrgyzstan,2023,electricity_access,99.8824,99.2213,100.5068
+Kyrgyzstan,2024,electricity_access,99.9084,99.2565,100.5903
+Kyrgyzstan,2025,electricity_access,99.9344,99.2232,100.6999
+Kyrgyzstan,2026,electricity_access,99.9603,99.2429,100.6433
+Kyrgyzstan,2027,electricity_access,99.9863,99.3128,100.7393
+Kyrgyzstan,2023,gdp_per_capita,5490.593,5187.6092,5799.5656
+Kyrgyzstan,2024,gdp_per_capita,5592.4055,5270.7494,5907.2182
+Kyrgyzstan,2025,gdp_per_capita,5694.497,5383.4159,6039.1356
+Kyrgyzstan,2026,gdp_per_capita,5796.3094,5488.2947,6102.0869
+Kyrgyzstan,2027,gdp_per_capita,5898.1219,5597.0183,6211.7755
+Laos,2023,internet_usage,50.1757,32.0577,68.5207
+Laos,2024,internet_usage,52.9225,34.7899,70.8172
+Laos,2025,internet_usage,55.6769,39.8389,73.3223
+Laos,2026,internet_usage,58.4237,40.0261,75.0356
+Laos,2027,internet_usage,61.1705,42.5641,78.4166
+Laos,2023,electricity_access,107.7508,103.052,112.6243
+Laos,2024,electricity_access,110.6385,106.0223,115.212
+Laos,2025,electricity_access,113.5342,109.147,118.3752
+Laos,2026,electricity_access,116.4219,111.8678,121.5788
+Laos,2027,electricity_access,119.3096,114.2071,123.9897
+Laos,2023,gdp_per_capita,7448.2458,7344.9513,7553.5775
+Laos,2024,gdp_per_capita,7663.2447,7546.4207,7791.2115
+Laos,2025,gdp_per_capita,7878.8326,7745.3827,8023.0604
+Laos,2026,gdp_per_capita,8093.8315,7932.2549,8282.3823
+Laos,2027,gdp_per_capita,8308.8304,8094.5028,8540.866
+Latvia,2023,internet_usage,105.3558,87.8959,123.0809
+Latvia,2024,internet_usage,108.9433,92.5731,125.3032
+Latvia,2025,internet_usage,112.5406,95.0182,128.8265
+Latvia,2026,internet_usage,116.1281,98.795,133.669
+Latvia,2027,internet_usage,119.7156,103.0902,136.1115
+Latvia,2023,electricity_access,100.0,99.8075,100.1704
+Latvia,2024,electricity_access,100.0,99.4036,100.5411
+Latvia,2025,electricity_access,100.0,98.9406,101.049
+Latvia,2026,electricity_access,100.0,98.3917,101.5094
+Latvia,2027,electricity_access,100.0,97.6419,102.0669
+Latvia,2023,gdp_per_capita,27847.7476,25045.2467,30493.3717
+Latvia,2024,gdp_per_capita,28509.6535,25785.8538,31331.8271
+Latvia,2025,gdp_per_capita,29173.3729,26572.6034,31841.4219
+Latvia,2026,gdp_per_capita,29835.2788,27154.2188,32604.124
+Latvia,2027,gdp_per_capita,30497.1847,27821.6579,33104.9543
+Lebanon,2023,internet_usage,100.4696,84.898,116.4742
+Lebanon,2024,internet_usage,104.9466,89.4491,120.5463
+Lebanon,2025,internet_usage,109.436,93.7634,124.9222
+Lebanon,2026,internet_usage,113.913,97.5578,129.67
+Lebanon,2027,internet_usage,118.3901,102.7076,133.7126
+Lebanon,2023,electricity_access,100.104,99.4529,100.7557
+Lebanon,2024,electricity_access,100.151,99.5034,100.8263
+Lebanon,2025,electricity_access,100.1982,99.5185,100.8607
+Lebanon,2026,electricity_access,100.2452,99.6098,100.9846
+Lebanon,2027,electricity_access,100.2922,99.5392,101.0092
+Lebanon,2023,gdp_per_capita,14048.6649,9471.2816,18564.0538
+Lebanon,2024,gdp_per_capita,14230.2812,9772.7144,18703.4874
+Lebanon,2025,gdp_per_capita,14412.3951,9705.0752,18920.8696
+Lebanon,2026,gdp_per_capita,14594.0114,10309.3902,19022.4917
+Lebanon,2027,gdp_per_capita,14775.6278,10182.8793,19673.38
+Lesotho,2023,internet_usage,46.4395,34.8706,58.863
+Lesotho,2024,internet_usage,48.8798,37.2718,59.8895
+Lesotho,2025,internet_usage,51.3267,39.7923,63.8668
+Lesotho,2026,internet_usage,53.7669,41.2053,66.3967
+Lesotho,2027,internet_usage,56.2071,43.552,69.5041
+Lesotho,2023,electricity_access,52.7655,47.9711,57.8322
+Lesotho,2024,electricity_access,55.2581,50.0431,60.7172
+Lesotho,2025,electricity_access,57.7575,52.8273,62.607
+Lesotho,2026,electricity_access,60.25,55.2634,65.6909
+Lesotho,2027,electricity_access,62.7426,57.5689,68.3247
+Lesotho,2023,gdp_per_capita,2498.1437,2274.631,2736.8717
+Lesotho,2024,gdp_per_capita,2497.8043,2249.8291,2751.5157
+Lesotho,2025,gdp_per_capita,2497.464,2273.7744,2745.9175
+Lesotho,2026,gdp_per_capita,2497.1246,2264.2176,2732.4926
+Lesotho,2027,gdp_per_capita,2496.7852,2246.4827,2728.9183
+Libya,2023,internet_usage,77.8932,50.2369,107.322
+Libya,2024,internet_usage,82.0265,54.2182,108.313
+Libya,2025,internet_usage,86.171,60.09,113.5357
+Libya,2026,internet_usage,90.3042,61.2339,119.256
+Libya,2027,internet_usage,94.4374,68.8003,121.3967
+Libya,2023,electricity_access,68.1726,67.3349,69.1136
+Libya,2024,electricity_access,67.3068,66.3797,68.2837
+Libya,2025,electricity_access,66.4386,65.4206,67.4723
+Libya,2026,electricity_access,65.5729,64.3082,66.8079
+Libya,2027,electricity_access,64.7071,63.2911,66.1718
+Libya,2023,gdp_per_capita,18396.196,6918.3358,30543.7065
+Libya,2024,gdp_per_capita,18492.5111,7365.2219,30015.3759
+Libya,2025,gdp_per_capita,18589.0901,7341.7168,30115.0803
+Libya,2026,gdp_per_capita,18685.4053,7556.2846,30113.963
+Libya,2027,gdp_per_capita,18781.7204,7865.9135,29892.6521
+Lithuania,2023,internet_usage,90.4464,88.0233,92.8231
+Lithuania,2024,internet_usage,92.6376,89.9219,94.9835
+Lithuania,2025,internet_usage,94.8349,92.0099,97.7896
+Lithuania,2026,internet_usage,97.0261,93.6821,100.7754
+Lithuania,2027,internet_usage,99.2173,94.3969,103.9967
+Lithuania,2023,electricity_access,100.0,99.8907,100.0968
+Lithuania,2024,electricity_access,100.0,99.6773,100.3168
+Lithuania,2025,electricity_access,100.0,99.4245,100.5782
+Lithuania,2026,electricity_access,100.0,99.1263,100.9181
+Lithuania,2027,electricity_access,100.0,98.7864,101.2339
+Lithuania,2023,gdp_per_capita,31709.9205,29705.0874,33661.2944
+Lithuania,2024,gdp_per_capita,32594.1979,30453.8668,34563.5822
+Lithuania,2025,gdp_per_capita,33480.898,31418.7073,35473.23
+Lithuania,2026,gdp_per_capita,34365.1753,32519.3878,36347.0059
+Lithuania,2027,gdp_per_capita,35249.4527,33218.865,37307.3018
+Luxembourg,2023,internet_usage,115.5667,93.4935,135.0352
+Luxembourg,2024,internet_usage,118.4817,97.9813,138.5724
+Luxembourg,2025,internet_usage,121.4046,101.2093,142.2854
+Luxembourg,2026,internet_usage,124.3196,103.2127,143.9115
+Luxembourg,2027,internet_usage,127.2345,106.7832,146.3197
+Luxembourg,2023,electricity_access,100.0,100.0,100.0
+Luxembourg,2024,electricity_access,100.0,100.0,100.0
+Luxembourg,2025,electricity_access,100.0,100.0,100.0
+Luxembourg,2026,electricity_access,100.0,100.0,100.0
+Luxembourg,2027,electricity_access,100.0,100.0,100.0
+Luxembourg,2023,gdp_per_capita,54955.5856,52609.0902,57039.6701
+Luxembourg,2024,gdp_per_capita,54995.88,52563.6942,57276.2322
+Luxembourg,2025,gdp_per_capita,55036.2848,52861.3122,57314.5244
+Luxembourg,2026,gdp_per_capita,55076.5791,52557.3246,57152.4971
+Luxembourg,2027,gdp_per_capita,55116.8735,52873.6653,57327.0949
+Madagascar,2023,internet_usage,11.7046,6.96,16.5075
+Madagascar,2024,internet_usage,12.3338,7.5526,17.2938
+Madagascar,2025,internet_usage,12.9648,8.4512,17.5962
+Madagascar,2026,internet_usage,13.5941,8.8192,18.3465
+Madagascar,2027,internet_usage,14.2234,9.436,18.7085
+Madagascar,2023,electricity_access,32.6619,24.3197,41.3434
+Madagascar,2024,electricity_access,33.6228,25.5264,41.568
+Madagascar,2025,electricity_access,34.5863,26.5778,42.9283
+Madagascar,2026,electricity_access,35.5472,27.2042,43.6373
+Madagascar,2027,electricity_access,36.5081,28.0774,45.198
+Madagascar,2023,gdp_per_capita,1401.6865,1299.0134,1515.3113
+Madagascar,2024,gdp_per_capita,1406.5307,1296.6195,1505.8293
+Madagascar,2025,gdp_per_capita,1411.3882,1302.5423,1510.0396
+Madagascar,2026,gdp_per_capita,1416.2324,1301.6401,1515.6327
+Madagascar,2027,gdp_per_capita,1421.0766,1315.6579,1523.4522
+Malawi,2023,internet_usage,13.7162,9.3764,17.7995
+Malawi,2024,internet_usage,14.4491,10.1372,18.418
+Malawi,2025,internet_usage,15.1839,10.4477,19.3847
+Malawi,2026,internet_usage,15.9168,11.6403,19.9408
+Malawi,2027,internet_usage,16.6496,12.1493,20.9545
+Malawi,2023,electricity_access,14.6197,11.4321,17.7359
+Malawi,2024,electricity_access,15.0751,11.9069,18.2718
+Malawi,2025,electricity_access,15.5318,12.3629,18.5517
+Malawi,2026,electricity_access,15.9872,12.8892,19.1145
+Malawi,2027,electricity_access,16.4426,13.0618,19.6435
+Malawi,2023,gdp_per_capita,1244.7869,1186.6404,1304.8671
+Malawi,2024,gdp_per_capita,1259.3263,1200.7415,1319.8538
+Malawi,2025,gdp_per_capita,1273.9056,1215.397,1334.3115
+Malawi,2026,gdp_per_capita,1288.4451,1229.7354,1353.3849
+Malawi,2027,gdp_per_capita,1302.9845,1238.2059,1364.2598
+Malaysia,2023,internet_usage,98.455,90.0491,106.6865
+Malaysia,2024,internet_usage,101.5542,93.4563,109.8154
+Malaysia,2025,internet_usage,104.6618,97.2124,112.8024
+Malaysia,2026,internet_usage,107.761,99.6857,115.346
+Malaysia,2027,internet_usage,110.8601,102.171,118.5426
+Malaysia,2023,electricity_access,100.0,99.8171,100.2028
+Malaysia,2024,electricity_access,100.0,99.443,100.6293
+Malaysia,2025,electricity_access,100.0,98.9559,101.1604
+Malaysia,2026,electricity_access,100.0,98.3466,101.6758
+Malaysia,2027,electricity_access,100.0,97.7616,102.2578
+Malaysia,2023,gdp_per_capita,27308.3076,26152.9836,28635.6334
+Malaysia,2024,gdp_per_capita,27945.0323,26806.1709,29195.8554
+Malaysia,2025,gdp_per_capita,28583.5014,27413.0652,29803.6544
+Malaysia,2026,gdp_per_capita,29220.2261,28018.9584,30366.277
+Malaysia,2027,gdp_per_capita,29856.9508,28568.1199,31001.9607
+Mali,2023,internet_usage,27.5985,16.7587,38.6479
+Mali,2024,internet_usage,29.1322,18.3519,39.1832
+Mali,2025,internet_usage,30.6701,20.6972,41.6536
+Mali,2026,internet_usage,32.2038,21.364,42.9213
+Mali,2027,internet_usage,33.7375,22.5698,43.9988
+Mali,2023,electricity_access,54.2723,48.5083,59.962
+Mali,2024,electricity_access,56.318,50.132,61.9619
+Mali,2025,electricity_access,58.3693,52.9952,64.0026
+Mali,2026,electricity_access,60.415,55.0123,66.4824
+Mali,2027,electricity_access,62.4607,56.0765,67.9199
+Mali,2023,gdp_per_capita,1716.3619,1632.0434,1811.1973
+Mali,2024,gdp_per_capita,1735.1185,1644.2529,1824.9439
+Mali,2025,gdp_per_capita,1753.9265,1656.1338,1844.825
+Mali,2026,gdp_per_capita,1772.683,1674.0721,1866.9453
+Mali,2027,gdp_per_capita,1791.4396,1694.3286,1883.7987
+Malta,2023,internet_usage,94.2056,90.5347,97.7085
+Malta,2024,internet_usage,96.5621,92.7606,99.9825
+Malta,2025,internet_usage,98.9251,95.3198,102.5905
+Malta,2026,internet_usage,101.2815,97.1793,105.3121
+Malta,2027,internet_usage,103.638,99.5417,107.8432
+Malta,2023,electricity_access,100.0,100.0,100.0
+Malta,2024,electricity_access,100.0,100.0,100.0
+Malta,2025,electricity_access,100.0,100.0,100.0
+Malta,2026,electricity_access,100.0,100.0,100.0
+Malta,2027,electricity_access,100.0,100.0,100.0
+Malta,2023,gdp_per_capita,34847.3008,32904.1719,36742.4323
+Malta,2024,gdp_per_capita,35670.755,33821.0458,37634.899
+Malta,2025,gdp_per_capita,36496.4652,34682.5887,38361.0227
+Malta,2026,gdp_per_capita,37319.9194,35289.5436,39197.8662
+Malta,2027,gdp_per_capita,38143.3736,36246.3273,40037.5152
+Mauritania,2023,internet_usage,29.167,20.8692,37.1611
+Mauritania,2024,internet_usage,30.7341,22.8216,39.065
+Mauritania,2025,internet_usage,32.3054,24.3066,40.6236
+Mauritania,2026,internet_usage,33.8724,26.28,41.7207
+Mauritania,2027,internet_usage,35.4395,27.232,43.5456
+Mauritania,2023,electricity_access,50.7156,47.1295,54.4874
+Mauritania,2024,electricity_access,52.0928,48.2785,56.1972
+Mauritania,2025,electricity_access,53.4737,49.561,57.3682
+Mauritania,2026,electricity_access,54.8508,51.0204,58.8479
+Mauritania,2027,electricity_access,56.228,52.7457,60.0864
+Mauritania,2023,gdp_per_capita,3793.1846,3576.462,4001.4242
+Mauritania,2024,gdp_per_capita,3847.0773,3645.13,4060.2815
+Mauritania,2025,gdp_per_capita,3901.1176,3679.5447,4116.1088
+Mauritania,2026,gdp_per_capita,3955.0104,3744.6099,4169.8428
+Mauritania,2027,gdp_per_capita,4008.9031,3812.59,4213.5559
+Mauritius,2023,internet_usage,78.9123,77.1273,81.0815
+Mauritius,2024,internet_usage,82.7743,80.5924,84.69
+Mauritius,2025,internet_usage,86.6468,84.4762,88.8134
+Mauritius,2026,internet_usage,90.5087,87.953,92.9924
+Mauritius,2027,internet_usage,94.3706,91.6065,96.9683
+Mauritius,2023,electricity_access,99.8451,99.6029,100.0568
+Mauritius,2024,electricity_access,99.8718,99.5252,100.2152
+Mauritius,2025,electricity_access,99.8985,99.4046,100.4017
+Mauritius,2026,electricity_access,99.9252,99.1895,100.6164
+Mauritius,2027,electricity_access,99.9518,98.9881,100.94
+Mauritius,2023,gdp_per_capita,21115.6921,19504.3729,22771.021
+Mauritius,2024,gdp_per_capita,21445.6807,19769.3876,23000.5341
+Mauritius,2025,gdp_per_capita,21776.5734,20221.1594,23369.8464
+Mauritius,2026,gdp_per_capita,22106.562,20623.3909,23856.4454
+Mauritius,2027,gdp_per_capita,22436.5506,20843.3854,23940.0226
+Mexico,2023,internet_usage,80.7047,74.2335,86.2483
+Mexico,2024,internet_usage,84.3721,77.8381,90.2865
+Mexico,2025,internet_usage,88.0497,81.9194,94.1234
+Mexico,2026,internet_usage,91.7172,86.0345,97.8295
+Mexico,2027,internet_usage,95.3846,89.2849,101.9354
+Mexico,2023,electricity_access,100.0217,99.2889,100.7622
+Mexico,2024,electricity_access,100.1095,99.4501,100.765
+Mexico,2025,electricity_access,100.1975,99.4806,100.9103
+Mexico,2026,electricity_access,100.2853,99.603,100.9776
+Mexico,2027,electricity_access,100.3731,99.6741,101.0869
+Mexico,2023,gdp_per_capita,16316.1249,15517.8304,17076.8438
+Mexico,2024,gdp_per_capita,16303.6232,15481.3135,17063.3829
+Mexico,2025,gdp_per_capita,16291.0874,15484.001,17097.8555
+Mexico,2026,gdp_per_capita,16278.5857,15511.2977,17080.8199
+Mexico,2027,gdp_per_capita,16266.0841,15417.9667,17132.0357
+Moldova,2023,internet_usage,78.5177,63.1001,94.2105
+Moldova,2024,internet_usage,82.0215,66.5534,96.884
+Moldova,2025,internet_usage,85.535,69.5305,101.2906
+Moldova,2026,internet_usage,89.0388,72.5651,104.8132
+Moldova,2027,internet_usage,92.5427,78.0076,107.4056
+Moldova,2023,electricity_access,100.0,99.7109,100.2565
+Moldova,2024,electricity_access,100.0,99.1209,100.7928
+Moldova,2025,electricity_access,100.0,98.3717,101.4515
+Moldova,2026,electricity_access,100.0,97.6825,102.2407
+Moldova,2027,electricity_access,100.0,96.9406,103.1747
+Moldova,2023,gdp_per_capita,7425.066,6926.2348,7972.8206
+Moldova,2024,gdp_per_capita,7619.5875,7127.1645,8136.7147
+Moldova,2025,gdp_per_capita,7814.6419,7313.1614,8274.2315
+Moldova,2026,gdp_per_capita,8009.1633,7497.3853,8522.2741
+Moldova,2027,gdp_per_capita,8203.6848,7678.2099,8700.4189
+Mongolia,2023,internet_usage,61.5152,36.7758,87.0897
+Mongolia,2024,internet_usage,64.805,38.5957,89.9159
+Mongolia,2025,internet_usage,68.1038,42.8261,91.9854
+Mongolia,2026,internet_usage,71.3935,45.1706,96.1428
+Mongolia,2027,internet_usage,74.6833,49.8161,101.3756
+Mongolia,2023,electricity_access,103.9638,98.3054,109.3217
+Mongolia,2024,electricity_access,105.8848,100.8228,111.2599
+Mongolia,2025,electricity_access,107.811,102.624,113.141
+Mongolia,2026,electricity_access,109.732,104.4137,114.8744
+Mongolia,2027,electricity_access,111.653,106.2444,116.7151
+Mongolia,2023,gdp_per_capita,15604.5708,13787.9528,17468.0933
+Mongolia,2024,gdp_per_capita,16153.3785,14356.2093,17934.8194
+Mongolia,2025,gdp_per_capita,16703.6899,14880.909,18472.5336
+Mongolia,2026,gdp_per_capita,17252.4977,15511.513,19103.9517
+Mongolia,2027,gdp_per_capita,17801.3054,16039.2321,19689.3016
+Morocco,2023,internet_usage,94.8535,84.8441,104.9979
+Morocco,2024,internet_usage,99.115,89.2783,109.3523
+Morocco,2025,internet_usage,103.3881,93.4067,114.5444
+Morocco,2026,internet_usage,107.6496,97.5183,117.6711
+Morocco,2027,internet_usage,111.9111,101.6073,122.5054
+Morocco,2023,electricity_access,103.8891,97.1079,111.0095
+Morocco,2024,electricity_access,104.7815,97.9352,111.9737
+Morocco,2025,electricity_access,105.6763,98.8997,112.5277
+Morocco,2026,electricity_access,106.5687,99.8136,113.3055
+Morocco,2027,electricity_access,107.4611,100.425,114.1287
+Morocco,2023,gdp_per_capita,8518.896,8264.4851,8791.7215
+Morocco,2024,gdp_per_capita,8584.3656,8332.0898,8848.0182
+Morocco,2025,gdp_per_capita,8650.0146,8393.7939,8921.5744
+Morocco,2026,gdp_per_capita,8715.4843,8425.504,8972.2939
+Morocco,2027,gdp_per_capita,8780.954,8493.3172,9074.3185
+Mozambique,2023,internet_usage,14.7692,10.9272,18.4994
+Mozambique,2024,internet_usage,15.536,11.8744,19.3077
+Mozambique,2025,internet_usage,16.3048,12.3772,19.9425
+Mozambique,2026,internet_usage,17.0716,13.4883,21.0615
+Mozambique,2027,internet_usage,17.8384,13.7622,21.7144
+Mozambique,2023,electricity_access,34.7859,32.3747,37.0351
+Mozambique,2024,electricity_access,36.0793,33.7048,38.2421
+Mozambique,2025,electricity_access,37.3762,34.9219,39.7283
+Mozambique,2026,electricity_access,38.6695,36.2298,41.0014
+Mozambique,2027,electricity_access,39.9629,37.4485,42.1409
+Mozambique,2023,gdp_per_capita,1126.9646,1056.8968,1196.3598
+Mozambique,2024,gdp_per_capita,1137.1408,1069.8076,1203.8914
+Mozambique,2025,gdp_per_capita,1147.3449,1079.6719,1214.6571
+Mozambique,2026,gdp_per_capita,1157.5211,1086.482,1225.6317
+Mozambique,2027,gdp_per_capita,1167.6973,1092.9739,1235.2416
+Namibia,2023,internet_usage,53.9751,38.8079,69.03
+Namibia,2024,internet_usage,56.7698,40.0664,71.9321
+Namibia,2025,internet_usage,59.5722,44.2147,76.0815
+Namibia,2026,internet_usage,62.3669,46.9044,77.7604
+Namibia,2027,internet_usage,65.1617,50.3385,80.2202
+Namibia,2023,electricity_access,56.8215,54.7776,58.7996
+Namibia,2024,electricity_access,57.7584,55.6047,59.8906
+Namibia,2025,electricity_access,58.6978,56.6351,60.7711
+Namibia,2026,electricity_access,59.6346,57.4523,61.6112
+Namibia,2027,electricity_access,60.5714,58.4051,62.6027
+Namibia,2023,gdp_per_capita,9260.4314,7967.4111,10557.8002
+Namibia,2024,gdp_per_capita,9386.0061,8221.1515,10705.3187
+Namibia,2025,gdp_per_capita,9511.9249,8319.5978,10761.8083
+Namibia,2026,gdp_per_capita,9637.4996,8420.1623,10909.7337
+Namibia,2027,gdp_per_capita,9763.0744,8512.5937,10959.985
+Nepal,2023,internet_usage,40.5648,28.3422,52.2116
+Nepal,2024,internet_usage,42.7556,30.6868,55.4431
+Nepal,2025,internet_usage,44.9524,32.2719,57.3942
+Nepal,2026,internet_usage,47.1432,35.206,57.985
+Nepal,2027,internet_usage,49.334,37.693,61.3448
+Nepal,2023,electricity_access,97.215,91.16,103.2719
+Nepal,2024,electricity_access,98.9106,92.4386,104.715
+Nepal,2025,electricity_access,100.6109,94.4544,107.0244
+Nepal,2026,electricity_access,102.3066,95.685,108.6564
+Nepal,2027,electricity_access,104.0022,97.6476,110.6571
+Nepal,2023,gdp_per_capita,3092.2502,2990.629,3188.7928
+Nepal,2024,gdp_per_capita,3167.698,3070.6665,3265.948
+Nepal,2025,gdp_per_capita,3243.3525,3142.1143,3346.6566
+Nepal,2026,gdp_per_capita,3318.8003,3218.9955,3430.9246
+Nepal,2027,gdp_per_capita,3394.2481,3288.5621,3492.6116
+Netherlands,2023,internet_usage,104.2188,89.0246,119.185
+Netherlands,2024,internet_usage,105.9729,88.528,120.9932
+Netherlands,2025,internet_usage,107.7318,92.0182,124.1122
+Netherlands,2026,internet_usage,109.4858,91.8516,126.2616
+Netherlands,2027,internet_usage,111.2399,94.5484,128.9501
+Netherlands,2023,electricity_access,100.0,100.0,100.0
+Netherlands,2024,electricity_access,100.0,100.0,100.0
+Netherlands,2025,electricity_access,100.0,100.0,100.0
+Netherlands,2026,electricity_access,100.0,100.0,100.0
+Netherlands,2027,electricity_access,100.0,100.0,100.0
+Netherlands,2023,gdp_per_capita,48890.8073,47156.0524,50638.2764
+Netherlands,2024,gdp_per_capita,49293.2782,47561.2691,51138.4998
+Netherlands,2025,gdp_per_capita,49696.8518,48033.6149,51392.9319
+Netherlands,2026,gdp_per_capita,50099.3227,48338.966,51936.8452
+Netherlands,2027,gdp_per_capita,50501.7936,48949.9848,52304.618
+New Zealand,2023,internet_usage,97.7291,94.6794,100.9792
+New Zealand,2024,internet_usage,99.2072,96.2199,102.3935
+New Zealand,2025,internet_usage,100.6894,97.3665,104.0414
+New Zealand,2026,internet_usage,102.1675,98.6901,105.5023
+New Zealand,2027,internet_usage,103.6456,100.0489,107.152
+New Zealand,2023,electricity_access,100.0,100.0,100.0
+New Zealand,2024,electricity_access,100.0,100.0,100.0
+New Zealand,2025,electricity_access,100.0,100.0,100.0
+New Zealand,2026,electricity_access,100.0,100.0,100.0
+New Zealand,2027,electricity_access,100.0,100.0,100.0
+New Zealand,2023,gdp_per_capita,38578.6403,37796.1627,39394.5108
+New Zealand,2024,gdp_per_capita,39107.6331,38315.5661,39820.1745
+New Zealand,2025,gdp_per_capita,39638.0753,38800.7644,40452.4785
+New Zealand,2026,gdp_per_capita,40167.0681,39322.7829,40994.4467
+New Zealand,2027,gdp_per_capita,40696.0609,39790.9326,41561.0852
+Nicaragua,2023,internet_usage,43.3626,33.4339,53.4573
+Nicaragua,2024,internet_usage,45.5908,35.9983,55.7919
+Nicaragua,2025,internet_usage,47.8251,37.9468,57.5864
+Nicaragua,2026,internet_usage,50.0533,40.2664,60.2862
+Nicaragua,2027,internet_usage,52.2815,42.7425,62.3179
+Nicaragua,2023,electricity_access,87.3397,86.3571,88.3301
+Nicaragua,2024,electricity_access,87.8113,86.8308,88.7634
+Nicaragua,2025,electricity_access,88.2842,87.2011,89.2229
+Nicaragua,2026,electricity_access,88.7558,87.6989,89.801
+Nicaragua,2027,electricity_access,89.2274,87.9113,90.4113
+Nicaragua,2023,gdp_per_capita,5082.185,4829.6727,5359.5075
+Nicaragua,2024,gdp_per_capita,5118.3526,4845.906,5408.8729
+Nicaragua,2025,gdp_per_capita,5154.6193,4884.6769,5447.6241
+Nicaragua,2026,gdp_per_capita,5190.7869,4915.2391,5464.2751
+Nicaragua,2027,gdp_per_capita,5226.9545,4940.2597,5509.7381
+Niger,2023,internet_usage,15.2233,7.3287,23.3311
+Niger,2024,internet_usage,16.0911,8.6933,24.2595
+Niger,2025,internet_usage,16.9613,9.044,25.1076
+Niger,2026,internet_usage,17.8291,9.8795,26.1893
+Niger,2027,internet_usage,18.6969,10.0358,26.8572
+Niger,2023,electricity_access,20.7391,19.1623,22.2802
+Niger,2024,electricity_access,21.3368,19.8651,23.0797
+Niger,2025,electricity_access,21.9362,20.3674,23.4784
+Niger,2026,electricity_access,22.5339,20.9935,24.1856
+Niger,2027,electricity_access,23.1316,21.6036,24.762
+Niger,2023,gdp_per_capita,1003.5803,973.6554,1034.375
+Niger,2024,gdp_per_capita,1018.1669,988.0661,1048.544
+Niger,2025,gdp_per_capita,1032.7935,1003.0958,1064.2058
+Niger,2026,gdp_per_capita,1047.3801,1018.8155,1077.6064
+Niger,2027,gdp_per_capita,1061.9667,1031.7803,1092.7159
+Nigeria,2023,internet_usage,38.8068,37.6596,40.0072
+Nigeria,2024,internet_usage,40.8771,39.6623,42.0634
+Nigeria,2025,internet_usage,42.9531,41.565,44.2825
+Nigeria,2026,internet_usage,45.0233,43.5425,46.384
+Nigeria,2027,internet_usage,47.0936,45.3256,48.8129
+Nigeria,2023,electricity_access,60.0453,55.868,64.4245
+Nigeria,2024,electricity_access,60.719,56.476,64.6493
+Nigeria,2025,electricity_access,61.3946,57.4479,65.6381
+Nigeria,2026,electricity_access,62.0684,57.9602,66.3196
+Nigeria,2027,electricity_access,62.7421,58.4408,66.5796
+Nigeria,2023,gdp_per_capita,6104.0058,5103.0972,7143.3741
+Nigeria,2024,gdp_per_capita,6249.91,5176.3291,7342.2409
+Nigeria,2025,gdp_per_capita,6396.2139,5409.5484,7406.9193
+Nigeria,2026,gdp_per_capita,6542.1181,5548.9422,7575.9091
+Nigeria,2027,gdp_per_capita,6688.0223,5672.4643,7718.695
+North Macedonia,2023,internet_usage,90.8934,85.9905,95.7832
+North Macedonia,2024,internet_usage,93.6596,88.7908,98.7998
+North Macedonia,2025,internet_usage,96.4334,91.4505,101.2125
+North Macedonia,2026,internet_usage,99.1997,93.7781,104.4196
+North Macedonia,2027,internet_usage,101.9659,96.6269,107.254
+North Macedonia,2023,electricity_access,100.0216,99.8254,100.2325
+North Macedonia,2024,electricity_access,100.0367,99.4048,100.6457
+North Macedonia,2025,electricity_access,100.0519,98.9439,101.1727
+North Macedonia,2026,electricity_access,100.067,98.3276,101.809
+North Macedonia,2027,electricity_access,100.0822,97.8183,102.4213
+North Macedonia,2023,gdp_per_capita,14445.0797,13949.7611,14957.4075
+North Macedonia,2024,gdp_per_capita,14717.5848,14177.5003,15237.3456
+North Macedonia,2025,gdp_per_capita,14990.8365,14465.4556,15528.3558
+North Macedonia,2026,gdp_per_capita,15263.3416,14717.6582,15782.0908
+North Macedonia,2027,gdp_per_capita,15535.8467,14988.4363,16050.3299
+Norway,2023,internet_usage,99.9639,94.9505,105.1591
+Norway,2024,internet_usage,100.4989,95.4987,105.9477
+Norway,2025,internet_usage,101.0353,95.5326,106.4696
+Norway,2026,internet_usage,101.5702,95.776,106.847
+Norway,2027,internet_usage,102.1051,96.3067,107.8907
+Norway,2023,electricity_access,100.0,100.0,100.0
+Norway,2024,electricity_access,100.0,100.0,100.0
+Norway,2025,electricity_access,100.0,100.0,100.0
+Norway,2026,electricity_access,100.0,100.0,100.0
+Norway,2027,electricity_access,100.0,100.0,100.0
+Norway,2023,gdp_per_capita,87507.7377,86001.7244,88935.7912
+Norway,2024,gdp_per_capita,88080.3795,86533.0873,89701.3918
+Norway,2025,gdp_per_capita,88654.5902,86837.0145,90564.3055
+Norway,2026,gdp_per_capita,89227.232,87190.9657,91312.2533
+Norway,2027,gdp_per_capita,89799.8739,87265.1288,92357.3545
+Oman,2023,internet_usage,108.3578,92.8152,122.9467
+Oman,2024,internet_usage,113.4668,99.6519,127.664
+Oman,2025,internet_usage,118.5899,104.3074,133.267
+Oman,2026,internet_usage,123.6989,109.7681,137.7597
+Oman,2027,internet_usage,128.8079,114.0821,143.1903
+Oman,2023,electricity_access,100.0,99.9719,100.0289
+Oman,2024,electricity_access,100.0,99.9003,100.0909
+Oman,2025,electricity_access,100.0,99.8265,100.174
+Oman,2026,electricity_access,100.0,99.7368,100.2819
+Oman,2027,electricity_access,100.0,99.634,100.3852
+Oman,2023,gdp_per_capita,55958.1251,48415.4908,64473.2025
+Oman,2024,gdp_per_capita,57192.0424,48927.3525,65320.7155
+Oman,2025,gdp_per_capita,58429.3403,50554.3897,66907.3028
+Oman,2026,gdp_per_capita,59663.2577,51812.1061,67202.1191
+Oman,2027,gdp_per_capita,60897.175,52818.8349,68904.9763
+Palestine,2023,internet_usage,88.5812,83.3742,93.4828
+Palestine,2024,internet_usage,92.6617,87.5052,97.8086
+Palestine,2025,internet_usage,96.7533,91.5382,102.0301
+Palestine,2026,internet_usage,100.8337,95.8705,106.132
+Palestine,2027,internet_usage,104.9142,99.1843,110.0256
+Palestine,2023,electricity_access,100.0325,99.5263,100.5023
+Palestine,2024,electricity_access,100.0465,98.475,101.4897
+Palestine,2025,electricity_access,100.0605,97.3597,102.7304
+Palestine,2026,electricity_access,100.0744,95.9153,104.2068
+Palestine,2027,electricity_access,100.0884,94.4113,105.7788
+Palestine,2023,gdp_per_capita,5081.4101,4374.7164,5790.2431
+Palestine,2024,gdp_per_capita,5111.6207,4407.2751,5790.3562
+Palestine,2025,gdp_per_capita,5141.9141,4475.8201,5901.1451
+Palestine,2026,gdp_per_capita,5172.1247,4443.4493,5891.0349
+Palestine,2027,gdp_per_capita,5202.3354,4445.2446,5909.542
+Panama,2023,internet_usage,79.8465,72.9965,86.4739
+Panama,2024,internet_usage,83.2555,76.1445,90.0859
+Panama,2025,internet_usage,86.6738,79.3345,94.6157
+Panama,2026,internet_usage,90.0829,82.8959,96.6034
+Panama,2027,internet_usage,93.4919,86.3373,100.4351
+Panama,2023,electricity_access,96.7304,94.7334,98.9129
+Panama,2024,electricity_access,97.41,95.3666,99.5086
+Panama,2025,electricity_access,98.0914,95.8871,100.0846
+Panama,2026,electricity_access,98.7709,96.392,100.8389
+Panama,2027,electricity_access,99.4504,97.4331,101.7832
+Panama,2023,gdp_per_capita,24887.6362,22232.9924,27360.0348
+Panama,2024,gdp_per_capita,25584.6058,22969.6856,28118.4447
+Panama,2025,gdp_per_capita,26283.485,23815.5338,28966.3591
+Panama,2026,gdp_per_capita,26980.4546,24509.0449,29363.4213
+Panama,2027,gdp_per_capita,27677.4243,25087.7442,30127.0964
+Paraguay,2023,internet_usage,86.4887,81.9956,91.6087
+Paraguay,2024,internet_usage,91.3732,86.6681,96.1682
+Paraguay,2025,internet_usage,96.271,91.686,101.226
+Paraguay,2026,internet_usage,101.1555,96.01,106.5371
+Paraguay,2027,internet_usage,106.0399,100.6724,111.8016
+Paraguay,2023,electricity_access,100.2422,99.6483,100.8328
+Paraguay,2024,electricity_access,100.4022,99.7486,101.0087
+Paraguay,2025,electricity_access,100.5626,99.8202,101.363
+Paraguay,2026,electricity_access,100.7227,99.7405,101.7372
+Paraguay,2027,electricity_access,100.8827,99.6188,102.1952
+Paraguay,2023,gdp_per_capita,9068.4022,8763.935,9435.0161
+Paraguay,2024,gdp_per_capita,9155.0394,8809.9905,9484.5804
+Paraguay,2025,gdp_per_capita,9241.914,8917.7842,9578.6422
+Paraguay,2026,gdp_per_capita,9328.5512,8970.1487,9692.1874
+Paraguay,2027,gdp_per_capita,9415.1884,9065.3495,9761.5137
+Peru,2023,internet_usage,76.1758,72.0047,80.6626
+Peru,2024,internet_usage,80.1264,76.142,84.6451
+Peru,2025,internet_usage,84.0877,79.7815,88.468
+Peru,2026,internet_usage,88.0383,83.7739,92.1482
+Peru,2027,internet_usage,91.9888,87.2638,96.0596
+Peru,2023,electricity_access,96.5969,95.9384,97.2544
+Peru,2024,electricity_access,96.8852,95.9069,97.8336
+Peru,2025,electricity_access,97.1742,95.7323,98.6701
+Peru,2026,electricity_access,97.4624,95.3645,99.5657
+Peru,2027,electricity_access,97.7506,94.5566,100.6536
+Peru,2023,gdp_per_capita,13275.5328,12420.2008,14159.7686
+Peru,2024,gdp_per_capita,13501.2277,12657.8596,14309.5626
+Peru,2025,gdp_per_capita,13727.541,12894.0657,14626.6173
+Peru,2026,gdp_per_capita,13953.2359,13155.1602,14915.8228
+Peru,2027,gdp_per_capita,14178.9308,13273.9361,15044.0109
+Philippines,2023,internet_usage,63.2261,51.5042,75.6388
+Philippines,2024,internet_usage,66.3034,54.3677,79.1798
+Philippines,2025,internet_usage,69.3891,57.4899,82.9244
+Philippines,2026,internet_usage,72.4665,59.8462,84.2764
+Philippines,2027,internet_usage,75.5438,62.7393,88.9599
+Philippines,2023,electricity_access,98.4816,94.6727,102.2083
+Philippines,2024,electricity_access,99.4757,95.6346,103.1244
+Philippines,2025,electricity_access,100.4725,96.7723,103.9844
+Philippines,2026,electricity_access,101.4665,97.6164,105.3975
+Philippines,2027,electricity_access,102.4606,98.7114,106.3406
+Philippines,2023,gdp_per_capita,8759.9057,8198.0644,9338.0511
+Philippines,2024,gdp_per_capita,8979.9169,8423.7132,9540.7582
+Philippines,2025,gdp_per_capita,9200.5309,8664.4017,9762.6119
+Philippines,2026,gdp_per_capita,9420.542,8853.1685,9986.4246
+Philippines,2027,gdp_per_capita,9640.5532,9106.8702,10217.227
+Poland,2023,internet_usage,89.4827,86.256,92.8003
+Poland,2024,internet_usage,91.8335,88.3545,94.9762
+Poland,2025,internet_usage,94.1908,90.4631,97.8128
+Poland,2026,internet_usage,96.5416,92.3174,100.3894
+Poland,2027,internet_usage,98.8924,94.1899,103.2933
+Poland,2023,electricity_access,100.0,99.9363,100.0686
+Poland,2024,electricity_access,100.0,99.8141,100.2108
+Poland,2025,electricity_access,100.0,99.6768,100.3785
+Poland,2026,electricity_access,100.0,99.4605,100.6044
+Poland,2027,electricity_access,100.0,99.2045,100.8157
+Poland,2023,gdp_per_capita,32681.0501,31683.4521,33595.6515
+Poland,2024,gdp_per_capita,33704.449,32766.8803,34609.2882
+Poland,2025,gdp_per_capita,34730.6517,33804.9554,35675.6124
+Poland,2026,gdp_per_capita,35754.0506,34862.4131,36661.2945
+Poland,2027,gdp_per_capita,36777.4494,35850.9713,37679.2029
+Portugal,2023,internet_usage,86.9884,84.3539,89.5888
+Portugal,2024,internet_usage,89.4404,86.6832,92.0897
+Portugal,2025,internet_usage,91.899,89.2929,94.5531
+Portugal,2026,internet_usage,94.351,91.5382,97.0483
+Portugal,2027,internet_usage,96.8029,93.9538,99.68
+Portugal,2023,electricity_access,100.0,100.0,100.0
+Portugal,2024,electricity_access,100.0,100.0,100.0
+Portugal,2025,electricity_access,100.0,100.0,100.0
+Portugal,2026,electricity_access,100.0,100.0,100.0
+Portugal,2027,electricity_access,100.0,100.0,100.0
+Portugal,2023,gdp_per_capita,27978.3274,26520.6934,29497.5679
+Portugal,2024,gdp_per_capita,28261.4376,26864.7439,29691.6377
+Portugal,2025,gdp_per_capita,28545.3235,27280.0209,29932.2579
+Portugal,2026,gdp_per_capita,28828.4337,27473.9748,30209.8551
+Portugal,2027,gdp_per_capita,29111.5439,27724.0085,30515.8581
+Puerto Rico,2023,internet_usage,94.7914,82.9236,105.1335
+Puerto Rico,2024,internet_usage,98.5057,87.1069,110.1073
+Puerto Rico,2025,internet_usage,102.2301,91.0538,113.1783
+Puerto Rico,2026,internet_usage,105.9444,93.4661,117.7543
+Puerto Rico,2027,internet_usage,109.6587,98.0661,122.2671
+Puerto Rico,2023,electricity_access,100.0,100.0,100.0
+Puerto Rico,2024,electricity_access,100.0,100.0,100.0
+Puerto Rico,2025,electricity_access,100.0,100.0,100.0
+Puerto Rico,2026,electricity_access,100.0,100.0,100.0
+Puerto Rico,2027,electricity_access,100.0,100.0,100.0
+Puerto Rico,2023,gdp_per_capita,34752.5592,33852.4417,35552.5619
+Puerto Rico,2024,gdp_per_capita,34705.2449,33924.1581,35569.2741
+Puerto Rico,2025,gdp_per_capita,34657.8009,33690.599,35480.2209
+Puerto Rico,2026,gdp_per_capita,34610.4866,33593.4787,35591.0959
+Puerto Rico,2027,gdp_per_capita,34563.1723,33417.7957,35758.4144
+Qatar,2023,internet_usage,122.9673,106.9813,138.9789
+Qatar,2024,internet_usage,128.0728,112.1723,143.9539
+Qatar,2025,internet_usage,133.1924,117.1058,149.841
+Qatar,2026,internet_usage,138.2979,121.3005,154.2875
+Qatar,2027,internet_usage,143.4034,127.7877,159.2534
+Qatar,2023,electricity_access,100.0,100.0,100.0
+Qatar,2024,electricity_access,100.0,100.0,100.0
+Qatar,2025,electricity_access,100.0,100.0,100.0
+Qatar,2026,electricity_access,100.0,100.0,100.0
+Qatar,2027,electricity_access,100.0,100.0,100.0
+Qatar,2023,gdp_per_capita,183425.8366,145536.2617,218467.044
+Qatar,2024,gdp_per_capita,188749.9931,153514.2309,223013.6166
+Qatar,2025,gdp_per_capita,194088.7364,158275.3198,230826.9404
+Qatar,2026,gdp_per_capita,199412.893,163782.945,237340.0026
+Qatar,2027,gdp_per_capita,204737.0496,171199.0234,238870.2904
+Romania,2023,internet_usage,89.7149,86.7829,92.9864
+Romania,2024,internet_usage,93.7426,90.7397,96.6368
+Romania,2025,internet_usage,97.7813,94.8656,100.7279
+Romania,2026,internet_usage,101.809,98.8064,104.6969
+Romania,2027,internet_usage,105.8366,102.7627,109.0652
+Romania,2023,electricity_access,100.032,99.8836,100.1987
+Romania,2024,electricity_access,100.0513,99.6183,100.5056
+Romania,2025,electricity_access,100.0706,99.276,100.8775
+Romania,2026,electricity_access,100.0898,98.9088,101.2964
+Romania,2027,electricity_access,100.1091,98.4493,101.8629
+Romania,2023,gdp_per_capita,27290.6419,25677.8755,28928.8612
+Romania,2024,gdp_per_capita,28158.4811,26592.0717,29641.9806
+Romania,2025,gdp_per_capita,29028.698,27287.7796,30508.7802
+Romania,2026,gdp_per_capita,29896.5373,28293.4921,31612.5877
+Romania,2027,gdp_per_capita,30764.3766,29142.2679,32215.6423
+Russia,2023,internet_usage,103.5352,92.4405,114.3643
+Russia,2024,internet_usage,108.0994,96.1876,118.955
+Russia,2025,internet_usage,112.676,100.943,124.1045
+Russia,2026,internet_usage,117.2401,106.0816,129.7881
+Russia,2027,internet_usage,121.8042,110.0929,134.0304
+Russia,2023,electricity_access,100.1527,98.4406,102.1283
+Russia,2024,electricity_access,100.2618,98.5033,102.0004
+Russia,2025,electricity_access,100.3713,98.5867,102.0609
+Russia,2026,electricity_access,100.4805,98.6984,102.1819
+Russia,2027,electricity_access,100.5897,98.7638,102.351
+Russia,2023,gdp_per_capita,25923.8282,24766.8908,27073.4644
+Russia,2024,gdp_per_capita,26154.9823,25105.7819,27343.3021
+Russia,2025,gdp_per_capita,26386.7697,25261.2324,27459.7087
+Russia,2026,gdp_per_capita,26617.9238,25342.0331,28065.1764
+Russia,2027,gdp_per_capita,26849.0779,25422.844,28309.2533
+Rwanda,2023,internet_usage,25.4213,20.2744,30.7483
+Rwanda,2024,internet_usage,26.7193,21.3813,32.1448
+Rwanda,2025,internet_usage,28.0209,22.9469,33.14
+Rwanda,2026,internet_usage,29.3189,24.1031,34.5537
+Rwanda,2027,internet_usage,30.6169,25.706,35.5616
+Rwanda,2023,electricity_access,46.0835,34.2753,58.3431
+Rwanda,2024,electricity_access,48.2183,36.1923,60.7064
+Rwanda,2025,electricity_access,50.3588,38.286,63.1926
+Rwanda,2026,electricity_access,52.4935,41.1234,64.5484
+Rwanda,2027,electricity_access,54.6283,42.0938,66.5851
+Rwanda,2023,gdp_per_capita,2226.8534,2162.2495,2288.9077
+Rwanda,2024,gdp_per_capita,2292.9029,2229.8066,2361.115
+Rwanda,2025,gdp_per_capita,2359.1334,2295.3475,2417.9867
+Rwanda,2026,gdp_per_capita,2425.1829,2361.2245,2487.7815
+Rwanda,2027,gdp_per_capita,2491.2324,2422.2651,2558.2785
+Saint Lucia,2023,internet_usage,73.3403,66.4954,79.8703
+Saint Lucia,2024,internet_usage,76.1631,69.4524,83.2941
+Saint Lucia,2025,internet_usage,78.9937,72.2609,85.869
+Saint Lucia,2026,internet_usage,81.8165,74.7983,88.3745
+Saint Lucia,2027,internet_usage,84.6393,77.679,91.4068
+Saint Lucia,2023,electricity_access,100.3315,99.1888,101.441
+Saint Lucia,2024,electricity_access,100.4307,99.2328,101.472
+Saint Lucia,2025,electricity_access,100.5302,99.3526,101.7311
+Saint Lucia,2026,electricity_access,100.6294,99.3197,101.9023
+Saint Lucia,2027,electricity_access,100.7286,99.2869,102.0892
+Saint Lucia,2023,gdp_per_capita,10993.5757,9253.9281,12619.4234
+Saint Lucia,2024,gdp_per_capita,11127.5609,9437.942,12914.7519
+Saint Lucia,2025,gdp_per_capita,11261.9132,9661.9175,12977.1858
+Saint Lucia,2026,gdp_per_capita,11395.8984,9670.8165,12971.6668
+Saint Lucia,2027,gdp_per_capita,11529.8836,9849.3343,13197.2255
+Sao Tome and Principe,2023,internet_usage,51.8337,40.2521,63.0949
+Sao Tome and Principe,2024,internet_usage,54.0951,42.3937,65.9338
+Sao Tome and Principe,2025,internet_usage,56.3626,45.2111,67.653
+Sao Tome and Principe,2026,internet_usage,58.6239,46.6365,70.6493
+Sao Tome and Principe,2027,internet_usage,60.8853,49.2107,73.3569
+Sao Tome and Principe,2023,electricity_access,80.841,77.522,84.0609
+Sao Tome and Principe,2024,electricity_access,82.4569,79.1517,85.6578
+Sao Tome and Principe,2025,electricity_access,84.0773,80.9664,87.4221
+Sao Tome and Principe,2026,electricity_access,85.6933,82.4309,88.8219
+Sao Tome and Principe,2027,electricity_access,87.3092,84.1122,90.6262
+Sao Tome and Principe,2023,gdp_per_capita,3856.81,3772.9842,3938.4107
+Sao Tome and Principe,2024,gdp_per_capita,3880.4479,3798.029,3963.9355
+Sao Tome and Principe,2025,gdp_per_capita,3904.1506,3812.5347,3991.9813
+Sao Tome and Principe,2026,gdp_per_capita,3927.7886,3829.9935,4026.7277
+Sao Tome and Principe,2027,gdp_per_capita,3951.4265,3840.7661,4069.3896
+Saudi Arabia,2023,internet_usage,112.1562,103.1144,121.8769
+Saudi Arabia,2024,internet_usage,117.2932,107.7236,127.05
+Saudi Arabia,2025,internet_usage,122.4443,112.8036,131.3805
+Saudi Arabia,2026,internet_usage,127.5813,117.5492,136.4823
+Saudi Arabia,2027,internet_usage,132.7184,123.3454,142.1955
+Saudi Arabia,2023,electricity_access,100.0145,99.9759,100.0555
+Saudi Arabia,2024,electricity_access,100.0235,99.9499,100.0914
+Saudi Arabia,2025,electricity_access,100.0326,99.9019,100.1593
+Saudi Arabia,2026,electricity_access,100.0416,99.8319,100.2318
+Saudi Arabia,2027,electricity_access,100.0506,99.7728,100.3074
+Saudi Arabia,2023,gdp_per_capita,58671.4175,50588.0686,66536.0662
+Saudi Arabia,2024,gdp_per_capita,60079.7538,51966.3429,68187.9711
+Saudi Arabia,2025,gdp_per_capita,61491.9486,53539.8299,69634.8803
+Saudi Arabia,2026,gdp_per_capita,62900.285,55289.3458,70371.2117
+Saudi Arabia,2027,gdp_per_capita,64308.6213,56900.5681,72117.2133
+Senegal,2023,internet_usage,49.1084,34.4335,62.9447
+Senegal,2024,internet_usage,51.6568,37.9832,66.0934
+Senegal,2025,internet_usage,54.2121,39.3724,68.4619
+Senegal,2026,internet_usage,56.7605,41.1666,70.9213
+Senegal,2027,internet_usage,59.3088,44.2565,75.2383
+Senegal,2023,electricity_access,72.7988,68.0365,77.8644
+Senegal,2024,electricity_access,74.3283,69.0223,79.7037
+Senegal,2025,electricity_access,75.862,71.1127,81.059
+Senegal,2026,electricity_access,77.3915,72.5262,82.5976
+Senegal,2027,electricity_access,78.921,73.8701,84.2173
+Senegal,2023,gdp_per_capita,2728.8046,2660.9765,2790.5103
+Senegal,2024,gdp_per_capita,2783.9295,2714.8577,2851.181
+Senegal,2025,gdp_per_capita,2839.2055,2771.6665,2903.5643
+Senegal,2026,gdp_per_capita,2894.3304,2830.1617,2964.3625
+Senegal,2027,gdp_per_capita,2949.4553,2866.9631,3032.5013
+Seychelles,2023,internet_usage,88.1334,80.2015,96.3582
+Seychelles,2024,internet_usage,91.6332,83.0632,99.6337
+Seychelles,2025,internet_usage,95.1426,87.4084,103.1805
+Seychelles,2026,internet_usage,98.6424,90.1565,107.0568
+Seychelles,2027,internet_usage,102.1422,93.8019,110.1078
+Seychelles,2023,electricity_access,100.418,98.9503,101.8489
+Seychelles,2024,electricity_access,100.5298,99.1063,102.0896
+Seychelles,2025,electricity_access,100.6419,99.1755,102.0348
+Seychelles,2026,electricity_access,100.7537,99.2269,102.1385
+Seychelles,2027,electricity_access,100.8655,99.5144,102.3204
+Seychelles,2023,gdp_per_capita,33532.9464,30510.4845,36303.5571
+Seychelles,2024,gdp_per_capita,34474.6633,31489.0054,37150.8631
+Seychelles,2025,gdp_per_capita,35418.9602,32197.5848,38334.2617
+Seychelles,2026,gdp_per_capita,36360.6771,33396.6175,39359.667
+Seychelles,2027,gdp_per_capita,37302.3939,34280.1053,40154.1718
+Sierra Leone,2023,internet_usage,17.1406,11.365,22.8458
+Sierra Leone,2024,internet_usage,18.0873,12.4221,24.1512
+Sierra Leone,2025,internet_usage,19.0366,13.0925,24.8952
+Sierra Leone,2026,internet_usage,19.9832,14.1824,26.032
+Sierra Leone,2027,internet_usage,20.9299,14.8359,26.717
+Sierra Leone,2023,electricity_access,27.6189,22.7912,32.3076
+Sierra Leone,2024,electricity_access,28.5219,23.881,33.2404
+Sierra Leone,2025,electricity_access,29.4274,24.7217,34.3319
+Sierra Leone,2026,electricity_access,30.3304,26.0037,34.5706
+Sierra Leone,2027,electricity_access,31.2334,26.8722,35.8084
+Sierra Leone,2023,gdp_per_capita,1906.304,1590.4634,2205.3375
+Sierra Leone,2024,gdp_per_capita,1943.8544,1648.5096,2234.0925
+Sierra Leone,2025,gdp_per_capita,1981.5077,1667.8069,2276.0769
+Sierra Leone,2026,gdp_per_capita,2019.0581,1695.6899,2334.9032
+Sierra Leone,2027,gdp_per_capita,2056.6085,1745.9782,2383.0243
+Singapore,2023,internet_usage,98.9603,93.1585,104.3165
+Singapore,2024,internet_usage,101.1154,94.8979,107.1388
+Singapore,2025,internet_usage,103.2764,97.4154,109.2843
+Singapore,2026,internet_usage,105.4314,99.2651,110.9248
+Singapore,2027,internet_usage,107.5865,101.967,113.6036
+Singapore,2023,electricity_access,100.0,100.0,100.0
+Singapore,2024,electricity_access,100.0,100.0,100.0
+Singapore,2025,electricity_access,100.0,100.0,100.0
+Singapore,2026,electricity_access,100.0,100.0,100.0
+Singapore,2027,electricity_access,100.0,100.0,100.0
+Singapore,2023,gdp_per_capita,81889.3461,78707.5883,85350.348
+Singapore,2024,gdp_per_capita,83696.3097,80289.0993,87069.2436
+Singapore,2025,gdp_per_capita,85508.2238,81770.4326,88828.2222
+Singapore,2026,gdp_per_capita,87315.1873,83846.6084,90826.2259
+Singapore,2027,gdp_per_capita,89122.1508,85699.8254,92434.9015
+Slovakia,2023,internet_usage,101.7988,83.3217,119.0825
+Slovakia,2024,internet_usage,104.7628,86.8169,122.7355
+Slovakia,2025,internet_usage,107.7351,88.0832,127.6563
+Slovakia,2026,internet_usage,110.6991,91.1475,128.0964
+Slovakia,2027,internet_usage,113.6632,96.1047,131.4967
+Slovakia,2023,electricity_access,100.0,99.9692,100.0295
+Slovakia,2024,electricity_access,100.0,99.9023,100.0943
+Slovakia,2025,electricity_access,100.0,99.8212,100.1734
+Slovakia,2026,electricity_access,100.0,99.7275,100.2671
+Slovakia,2027,electricity_access,100.0,99.6282,100.3553
+Slovakia,2023,gdp_per_capita,28663.9725,27445.1805,29820.9523
+Slovakia,2024,gdp_per_capita,29185.8565,28095.9118,30266.8799
+Slovakia,2025,gdp_per_capita,29709.1703,28664.3916,30844.9359
+Slovakia,2026,gdp_per_capita,30231.0543,29072.503,31330.2725
+Slovakia,2027,gdp_per_capita,30752.9383,29482.6959,31863.8399
+Slovenia,2023,internet_usage,98.1048,87.3128,109.1026
+Slovenia,2024,internet_usage,101.0927,90.2478,112.5874
+Slovenia,2025,internet_usage,104.0887,93.7285,115.6433
+Slovenia,2026,internet_usage,107.0766,96.0034,117.2652
+Slovenia,2027,internet_usage,110.0645,99.0139,120.5776
+Slovenia,2023,electricity_access,100.0,100.0,100.0
+Slovenia,2024,electricity_access,100.0,100.0,100.0
+Slovenia,2025,electricity_access,100.0,100.0,100.0
+Slovenia,2026,electricity_access,100.0,100.0,100.0
+Slovenia,2027,electricity_access,100.0,100.0,100.0
+Slovenia,2023,gdp_per_capita,30799.5619,27862.9076,33698.6416
+Slovenia,2024,gdp_per_capita,31161.5173,28507.8042,34010.072
+Slovenia,2025,gdp_per_capita,31524.4643,28815.7419,34349.7164
+Slovenia,2026,gdp_per_capita,31886.4197,29238.9287,34598.4912
+Slovenia,2027,gdp_per_capita,32248.3751,29420.2345,34782.1134
+South Africa,2023,internet_usage,79.6844,65.7143,94.5144
+South Africa,2024,internet_usage,83.4723,69.5052,96.943
+South Africa,2025,internet_usage,87.2706,73.4396,102.3538
+South Africa,2026,internet_usage,91.0585,77.8068,104.9032
+South Africa,2027,internet_usage,94.8464,79.2033,108.4712
+South Africa,2023,electricity_access,88.4796,85.4637,91.5358
+South Africa,2024,electricity_access,88.9006,86.0213,91.8902
+South Africa,2025,electricity_access,89.3228,86.3005,92.477
+South Africa,2026,electricity_access,89.7437,86.6988,92.6861
+South Africa,2027,electricity_access,90.1647,86.988,93.2287
+South Africa,2023,gdp_per_capita,11212.6351,10834.0486,11575.2309
+South Africa,2024,gdp_per_capita,11124.0776,10718.8825,11527.4006
+South Africa,2025,gdp_per_capita,11035.2775,10589.7914,11472.3913
+South Africa,2026,gdp_per_capita,10946.7201,10449.2293,11419.1683
+South Africa,2027,gdp_per_capita,10858.1626,10268.9864,11453.9709
+South Korea,2023,internet_usage,101.095,97.7189,104.5421
+South Korea,2024,internet_usage,102.4925,98.5175,106.3302
+South Korea,2025,internet_usage,103.8938,99.9389,107.6812
+South Korea,2026,internet_usage,105.2912,101.3437,109.5128
+South Korea,2027,internet_usage,106.6887,101.777,111.4594
+South Korea,2023,electricity_access,100.0,100.0,100.0
+South Korea,2024,electricity_access,100.0,100.0,100.0
+South Korea,2025,electricity_access,100.0,100.0,100.0
+South Korea,2026,electricity_access,100.0,100.0,100.0
+South Korea,2027,electricity_access,100.0,100.0,100.0
+South Korea,2023,gdp_per_capita,41836.827,41199.9412,42481.0251
+South Korea,2024,gdp_per_capita,42633.6733,42001.7444,43302.7508
+South Korea,2025,gdp_per_capita,43432.7027,42848.9518,44090.3076
+South Korea,2026,gdp_per_capita,44229.5489,43550.1252,44827.859
+South Korea,2027,gdp_per_capita,45026.3952,44329.0146,45636.0312
+Spain,2023,internet_usage,100.7693,93.5828,107.7194
+Spain,2024,internet_usage,103.5412,96.9498,110.0982
+Spain,2025,internet_usage,106.3206,99.8863,113.6352
+Spain,2026,internet_usage,109.0925,102.0157,116.0658
+Spain,2027,internet_usage,111.8644,104.5243,118.7706
+Spain,2023,electricity_access,100.0,100.0,100.0
+Spain,2024,electricity_access,100.0,100.0,100.0
+Spain,2025,electricity_access,100.0,100.0,100.0
+Spain,2026,electricity_access,100.0,100.0,100.0
+Spain,2027,electricity_access,100.0,100.0,100.0
+Spain,2023,gdp_per_capita,34129.6636,31506.914,36758.6031
+Spain,2024,gdp_per_capita,34343.2797,31810.4034,36854.682
+Spain,2025,gdp_per_capita,34557.481,31957.0842,37111.7776
+Spain,2026,gdp_per_capita,34771.0971,32262.7546,37413.574
+Spain,2027,gdp_per_capita,34984.7132,32476.2012,37440.4443
+Sri Lanka,2023,internet_usage,39.7553,29.1267,50.4127
+Sri Lanka,2024,internet_usage,41.7439,30.5935,52.333
+Sri Lanka,2025,internet_usage,43.7379,33.7143,54.926
+Sri Lanka,2026,internet_usage,45.7265,34.5087,56.7396
+Sri Lanka,2027,internet_usage,47.715,38.3085,58.4365
+Sri Lanka,2023,electricity_access,105.2581,99.0299,111.0019
+Sri Lanka,2024,electricity_access,106.7579,100.4578,112.8274
+Sri Lanka,2025,electricity_access,108.2617,102.1298,114.4259
+Sri Lanka,2026,electricity_access,109.7615,103.7109,115.6756
+Sri Lanka,2027,electricity_access,111.2613,105.1967,117.6045
+Sri Lanka,2023,gdp_per_capita,12857.2753,11615.4145,14222.8738
+Sri Lanka,2024,gdp_per_capita,13187.0015,11947.3938,14432.2408
+Sri Lanka,2025,gdp_per_capita,13517.6311,12217.15,14793.4973
+Sri Lanka,2026,gdp_per_capita,13847.3574,12559.1221,15182.7792
+Sri Lanka,2027,gdp_per_capita,14177.0837,12853.4352,15468.5271
+Sweden,2023,internet_usage,103.077,85.8393,119.4928
+Sweden,2024,internet_usage,104.5227,86.8885,120.9859
+Sweden,2025,internet_usage,105.9724,89.8766,123.2514
+Sweden,2026,internet_usage,107.4181,90.2237,124.3466
+Sweden,2027,internet_usage,108.8638,92.9438,125.7208
+Sweden,2023,electricity_access,100.0,100.0,100.0
+Sweden,2024,electricity_access,100.0,100.0,100.0
+Sweden,2025,electricity_access,100.0,100.0,100.0
+Sweden,2026,electricity_access,100.0,100.0,100.0
+Sweden,2027,electricity_access,100.0,100.0,100.0
+Sweden,2023,gdp_per_capita,46602.3531,44915.6004,48261.6607
+Sweden,2024,gdp_per_capita,46971.4744,45292.9216,48581.7396
+Sweden,2025,gdp_per_capita,47341.6069,45791.334,48921.0993
+Sweden,2026,gdp_per_capita,47710.7281,46049.4251,49429.4778
+Sweden,2027,gdp_per_capita,48079.8493,46470.5778,49784.7315
+Switzerland,2023,internet_usage,97.5101,94.7578,100.3451
+Switzerland,2024,internet_usage,98.6713,95.7907,101.5072
+Switzerland,2025,internet_usage,99.8358,96.6213,102.7787
+Switzerland,2026,internet_usage,100.997,97.5073,104.3722
+Switzerland,2027,internet_usage,102.1583,98.3977,105.8269
+Switzerland,2023,electricity_access,100.0,100.0,100.0
+Switzerland,2024,electricity_access,100.0,100.0,100.0
+Switzerland,2025,electricity_access,100.0,100.0,100.0
+Switzerland,2026,electricity_access,100.0,100.0,100.0
+Switzerland,2027,electricity_access,100.0,100.0,100.0
+Switzerland,2023,gdp_per_capita,63595.5253,61914.2474,65139.8221
+Switzerland,2024,gdp_per_capita,64034.5035,62397.8907,65733.7365
+Switzerland,2025,gdp_per_capita,64474.6844,62920.4292,66026.8465
+Switzerland,2026,gdp_per_capita,64913.6625,63299.1795,66630.1309
+Switzerland,2027,gdp_per_capita,65352.6407,63527.7784,67128.5534
+Syria,2023,internet_usage,45.5552,42.3966,48.5519
+Syria,2024,internet_usage,47.6266,44.4688,50.7586
+Syria,2023,electricity_access,88.075,83.7045,92.4613
+Syria,2024,electricity_access,87.8424,83.3219,92.2117
+Syria,2023,gdp_per_capita,1832.6055,695.5999,3007.1153
+Syria,2024,gdp_per_capita,1555.4084,395.7332,2723.6404
+Tajikistan,2023,internet_usage,40.3608,28.575,51.509
+Tajikistan,2024,internet_usage,42.4296,32.1593,53.8861
+Tajikistan,2025,internet_usage,44.5041,33.4422,56.1295
+Tajikistan,2026,internet_usage,46.5729,34.2768,57.4174
+Tajikistan,2027,internet_usage,48.6417,38.216,59.37
+Tajikistan,2023,electricity_access,99.9912,99.2967,100.6952
+Tajikistan,2024,electricity_access,100.1299,99.4734,100.8285
+Tajikistan,2025,electricity_access,100.269,99.5276,100.981
+Tajikistan,2026,electricity_access,100.4077,99.6095,101.1607
+Tajikistan,2027,electricity_access,100.5464,99.6704,101.3377
+Tajikistan,2023,gdp_per_capita,5652.8672,5577.2824,5728.0813
+Tajikistan,2024,gdp_per_capita,5889.4925,5809.6746,5971.9892
+Tajikistan,2025,gdp_per_capita,6126.7661,6027.9264,6220.3773
+Tajikistan,2026,gdp_per_capita,6363.3914,6250.1791,6481.6505
+Tajikistan,2027,gdp_per_capita,6600.0167,6451.7473,6739.6048
+Tanzania,2023,internet_usage,19.0088,14.0282,24.0713
+Tanzania,2024,internet_usage,20.0096,15.0069,25.2924
+Tanzania,2025,internet_usage,21.0131,16.3082,26.0775
+Tanzania,2026,internet_usage,22.0139,17.0689,27.072
+Tanzania,2027,internet_usage,23.0148,18.0216,28.1102
+Tanzania,2023,electricity_access,41.2752,31.5278,50.5041
+Tanzania,2024,electricity_access,42.9205,33.8554,50.9857
+Tanzania,2025,electricity_access,44.5703,36.4956,53.1531
+Tanzania,2026,electricity_access,46.2155,37.3519,55.8086
+Tanzania,2027,electricity_access,47.8608,39.3035,57.1115
+Tanzania,2023,gdp_per_capita,3172.7419,3137.4239,3207.0472
+Tanzania,2024,gdp_per_capita,3252.8858,3215.8357,3290.5218
+Tanzania,2025,gdp_per_capita,3333.2493,3293.096,3373.7889
+Tanzania,2026,gdp_per_capita,3413.3932,3364.7187,3469.6476
+Tanzania,2027,gdp_per_capita,3493.5371,3427.929,3561.0712
+Thailand,2023,internet_usage,77.3044,62.2647,92.5894
+Thailand,2024,internet_usage,80.9274,64.7453,96.3205
+Thailand,2025,internet_usage,84.5603,69.422,101.1422
+Thailand,2026,internet_usage,88.1833,71.6654,105.0566
+Thailand,2027,internet_usage,91.8063,75.2904,107.1923
+Thailand,2023,electricity_access,100.6359,97.5593,103.7781
+Thailand,2024,electricity_access,100.7784,97.6674,103.7894
+Thailand,2025,electricity_access,100.9213,97.6775,104.0287
+Thailand,2026,electricity_access,101.0637,97.8069,104.1125
+Thailand,2027,electricity_access,101.2062,98.0604,104.304
+Thailand,2023,gdp_per_capita,16892.333,16233.7789,17553.4208
+Thailand,2024,gdp_per_capita,17076.33,16435.1268,17729.1188
+Thailand,2025,gdp_per_capita,17260.8312,16639.5495,17905.7997
+Thailand,2026,gdp_per_capita,17444.8282,16815.2546,18119.8137
+Thailand,2027,gdp_per_capita,17628.8253,17013.7189,18307.5
+Togo,2023,internet_usage,24.366,12.9136,35.2337
+Togo,2024,internet_usage,25.6747,13.7105,35.785
+Togo,2025,internet_usage,26.987,15.9,37.7979
+Togo,2026,internet_usage,28.2958,17.9543,37.9939
+Togo,2027,internet_usage,29.6045,18.3589,40.4235
+Togo,2023,electricity_access,59.4547,56.9249,62.0226
+Togo,2024,electricity_access,61.2889,58.8867,63.7485
+Togo,2025,electricity_access,63.1282,60.5836,65.4751
+Togo,2026,electricity_access,64.9624,62.4332,67.3624
+Togo,2027,electricity_access,66.7967,64.3722,69.2342
+Togo,2023,gdp_per_capita,1606.7868,1578.2631,1636.8126
+Togo,2024,gdp_per_capita,1636.9199,1607.9346,1667.989
+Togo,2025,gdp_per_capita,1667.1356,1635.2448,1700.1839
+Togo,2026,gdp_per_capita,1697.2687,1658.3208,1731.9209
+Togo,2027,gdp_per_capita,1727.4018,1682.284,1769.3528
+Trinidad and Tobago,2023,internet_usage,89.676,84.5039,94.3722
+Trinidad and Tobago,2024,internet_usage,92.893,87.2013,97.9424
+Trinidad and Tobago,2025,internet_usage,96.1189,90.9791,101.2139
+Trinidad and Tobago,2026,internet_usage,99.3359,94.6028,104.6075
+Trinidad and Tobago,2027,internet_usage,102.5529,97.5956,107.7654
+Trinidad and Tobago,2023,electricity_access,100.3446,98.3209,102.534
+Trinidad and Tobago,2024,electricity_access,100.4154,98.21,102.5004
+Trinidad and Tobago,2025,electricity_access,100.4865,98.4748,102.6622
+Trinidad and Tobago,2026,electricity_access,100.5574,98.266,102.7063
+Trinidad and Tobago,2027,electricity_access,100.6282,98.3518,102.9719
+Trinidad and Tobago,2023,gdp_per_capita,30586.5141,23717.8511,37042.3444
+Trinidad and Tobago,2024,gdp_per_capita,30828.8043,24071.8316,37947.2037
+Trinidad and Tobago,2025,gdp_per_capita,31071.7584,24468.6241,38296.6063
+Trinidad and Tobago,2026,gdp_per_capita,31314.0487,24526.2617,38760.8379
+Trinidad and Tobago,2027,gdp_per_capita,31556.3389,24626.9374,38169.5837
+Tunisia,2023,internet_usage,77.2021,70.9878,83.4053
+Tunisia,2024,internet_usage,80.641,73.5993,87.5148
+Tunisia,2025,internet_usage,84.0894,77.7613,90.6495
+Tunisia,2026,internet_usage,87.5283,80.8328,93.5791
+Tunisia,2027,internet_usage,90.9672,83.7213,98.3303
+Tunisia,2023,electricity_access,99.9475,99.6879,100.1796
+Tunisia,2024,electricity_access,99.9509,99.1278,100.7646
+Tunisia,2025,electricity_access,99.9544,98.5478,101.4226
+Tunisia,2026,electricity_access,99.9578,97.6696,102.2211
+Tunisia,2027,electricity_access,99.9612,96.7228,103.0844
+Tunisia,2023,gdp_per_capita,10906.5686,10463.3553,11326.0473
+Tunisia,2024,gdp_per_capita,10879.3007,10476.5656,11304.7836
+Tunisia,2025,gdp_per_capita,10851.9581,10426.7327,11320.3779
+Tunisia,2026,gdp_per_capita,10824.6902,10315.9174,11286.0398
+Tunisia,2027,gdp_per_capita,10797.4224,10250.8283,11326.8114
+Turkey,2023,internet_usage,87.2005,82.1839,92.2515
+Turkey,2024,internet_usage,90.9534,86.7469,95.6867
+Turkey,2025,internet_usage,94.7164,90.1259,99.6062
+Turkey,2026,internet_usage,98.4693,93.9798,103.1593
+Turkey,2027,internet_usage,102.2221,97.562,107.2296
+Turkey,2023,electricity_access,100.0,99.9184,100.0872
+Turkey,2024,electricity_access,100.0,99.7446,100.2602
+Turkey,2025,electricity_access,100.0,99.5194,100.4839
+Turkey,2026,electricity_access,100.0,99.2824,100.7361
+Turkey,2027,electricity_access,100.0,98.9857,100.9685
+Turkey,2023,gdp_per_capita,27195.466,25973.398,28517.7024
+Turkey,2024,gdp_per_capita,27950.2939,26693.2181,29194.4781
+Turkey,2025,gdp_per_capita,28707.1899,27446.6309,30055.4127
+Turkey,2026,gdp_per_capita,29462.0178,28227.5084,30672.2954
+Turkey,2027,gdp_per_capita,30216.8457,28908.8623,31544.124
+Uganda,2023,internet_usage,10.0248,8.7681,11.396
+Uganda,2024,internet_usage,10.4773,9.1827,11.6832
+Uganda,2025,internet_usage,10.9311,9.6509,12.1491
+Uganda,2026,internet_usage,11.3836,10.0497,12.8609
+Uganda,2027,internet_usage,11.8361,10.5456,13.2267
+Uganda,2023,electricity_access,40.1631,29.6422,50.836
+Uganda,2024,electricity_access,41.8387,30.3487,52.6505
+Uganda,2025,electricity_access,43.5189,33.1612,54.0474
+Uganda,2026,electricity_access,45.1945,34.326,55.6351
+Uganda,2027,electricity_access,46.8701,36.4936,56.8534
+Uganda,2023,gdp_per_capita,2134.9941,2076.1868,2191.0368
+Uganda,2024,gdp_per_capita,2157.0617,2093.5449,2213.6003
+Uganda,2025,gdp_per_capita,2179.1897,2119.626,2238.2516
+Uganda,2026,gdp_per_capita,2201.2573,2135.5875,2268.7873
+Uganda,2027,gdp_per_capita,2223.3249,2156.0472,2291.5641
+Ukraine,2023,internet_usage,88.5527,86.6803,90.1556
+Ukraine,2024,internet_usage,93.4339,91.427,95.4673
+Ukraine,2025,internet_usage,98.3284,95.2606,101.1318
+Ukraine,2026,internet_usage,103.2096,99.1162,106.9152
+Ukraine,2027,internet_usage,108.0907,102.5704,113.2589
+Ukraine,2023,electricity_access,100.0,99.7378,100.2304
+Ukraine,2024,electricity_access,100.0,99.1937,100.7239
+Ukraine,2025,electricity_access,100.0,98.438,101.3602
+Ukraine,2026,electricity_access,100.0,97.7383,102.2795
+Ukraine,2027,electricity_access,100.0,96.8959,102.9711
+Ukraine,2023,gdp_per_capita,10638.151,8035.1124,13090.243
+Ukraine,2024,gdp_per_capita,10776.3917,8416.4691,13196.5228
+Ukraine,2025,gdp_per_capita,10915.0111,8437.8668,13185.0172
+Ukraine,2026,gdp_per_capita,11053.2517,8582.2177,13498.5947
+Ukraine,2027,gdp_per_capita,11191.4924,8881.2753,13573.029
+United Arab Emirates,2023,internet_usage,117.466,104.8754,129.9888
+United Arab Emirates,2024,internet_usage,121.4451,107.1279,135.3211
+United Arab Emirates,2025,internet_usage,125.4352,112.005,138.6559
+United Arab Emirates,2026,internet_usage,129.4144,116.105,143.4562
+United Arab Emirates,2027,internet_usage,133.3935,119.7007,145.9844
+United Arab Emirates,2023,electricity_access,100.0,100.0,100.0
+United Arab Emirates,2024,electricity_access,100.0,100.0,100.0
+United Arab Emirates,2025,electricity_access,100.0,100.0,100.0
+United Arab Emirates,2026,electricity_access,100.0,100.0,100.0
+United Arab Emirates,2027,electricity_access,100.0,100.0,100.0
+United Arab Emirates,2023,gdp_per_capita,77592.6251,70029.6349,84543.2824
+United Arab Emirates,2024,gdp_per_capita,78570.0103,71684.8793,85824.665
+United Arab Emirates,2025,gdp_per_capita,79550.0733,72396.3349,86837.5055
+United Arab Emirates,2026,gdp_per_capita,80527.4585,73535.775,87431.7138
+United Arab Emirates,2027,gdp_per_capita,81504.8437,74644.828,88850.4665
+United Kingdom,2023,internet_usage,108.4467,90.3987,125.912
+United Kingdom,2024,internet_usage,110.9231,93.6982,128.8388
+United Kingdom,2025,internet_usage,113.4064,95.2982,131.0212
+United Kingdom,2026,internet_usage,115.8829,98.7939,132.7028
+United Kingdom,2027,internet_usage,118.3593,101.2784,136.52
+United Kingdom,2023,electricity_access,100.0,100.0,100.0
+United Kingdom,2024,electricity_access,100.0,100.0,100.0
+United Kingdom,2025,electricity_access,100.0,100.0,100.0
+United Kingdom,2026,electricity_access,100.0,100.0,100.0
+United Kingdom,2027,electricity_access,100.0,100.0,100.0
+United Kingdom,2023,gdp_per_capita,38475.206,36300.5434,40753.9874
+United Kingdom,2024,gdp_per_capita,38694.1429,36370.756,41107.1959
+United Kingdom,2025,gdp_per_capita,38913.6796,36740.6537,41359.0215
+United Kingdom,2026,gdp_per_capita,39132.6165,36834.5954,41275.3063
+United Kingdom,2027,gdp_per_capita,39351.5533,36918.0928,41603.7501
+United States,2023,internet_usage,95.3656,86.5818,104.3747
+United States,2024,internet_usage,97.1739,88.8292,106.6046
+United States,2025,internet_usage,98.9871,90.4692,108.5981
+United States,2026,internet_usage,100.7954,92.0324,110.1566
+United States,2027,internet_usage,102.6037,93.7745,111.4684
+United States,2023,electricity_access,100.0,100.0,100.0
+United States,2024,electricity_access,100.0,100.0,100.0
+United States,2025,electricity_access,100.0,100.0,100.0
+United States,2026,electricity_access,100.0,100.0,100.0
+United States,2027,electricity_access,100.0,100.0,100.0
+United States,2023,gdp_per_capita,58342.7032,56501.721,60108.2428
+United States,2024,gdp_per_capita,59034.1736,57254.3892,60645.2705
+United States,2025,gdp_per_capita,59727.5384,57875.8165,61423.2147
+United States,2026,gdp_per_capita,60419.0088,58696.4306,62306.6622
+United States,2027,gdp_per_capita,61110.4792,59219.5302,62786.7833
+Uruguay,2023,internet_usage,96.63,91.2948,101.286
+Uruguay,2024,internet_usage,100.5841,95.5641,105.2581
+Uruguay,2025,internet_usage,104.5491,99.6226,109.1488
+Uruguay,2026,internet_usage,108.5032,103.7869,113.3238
+Uruguay,2027,internet_usage,112.4573,107.7759,117.0149
+Uruguay,2023,electricity_access,100.0878,99.9001,100.2975
+Uruguay,2024,electricity_access,100.1369,99.5305,100.7526
+Uruguay,2025,electricity_access,100.186,99.1141,101.3506
+Uruguay,2026,electricity_access,100.235,98.5253,102.1004
+Uruguay,2027,electricity_access,100.284,97.8903,102.852
+Uruguay,2023,gdp_per_capita,21551.24,19587.5031,23419.7928
+Uruguay,2024,gdp_per_capita,21988.2262,20030.5242,24033.6134
+Uruguay,2025,gdp_per_capita,22426.4095,20529.058,24488.1557
+Uruguay,2026,gdp_per_capita,22863.3956,20904.51,24945.5348
+Uruguay,2027,gdp_per_capita,23300.3818,21290.7301,25335.4017
+Uzbekistan,2023,internet_usage,75.6302,60.2337,90.708
+Uzbekistan,2024,internet_usage,79.5372,64.0895,94.9231
+Uzbekistan,2025,internet_usage,83.4549,68.3464,98.2158
+Uzbekistan,2026,internet_usage,87.3619,71.2412,102.6778
+Uzbekistan,2027,internet_usage,91.2689,75.9496,104.8347
+Uzbekistan,2023,electricity_access,99.9545,99.8229,100.0818
+Uzbekistan,2024,electricity_access,99.9465,99.556,100.3314
+Uzbekistan,2025,electricity_access,99.9383,99.2608,100.6558
+Uzbekistan,2026,electricity_access,99.9303,98.9663,101.0565
+Uzbekistan,2027,electricity_access,99.9222,98.5249,101.4464
+Uzbekistan,2023,gdp_per_capita,12950.8443,12822.3359,13085.3107
+Uzbekistan,2024,gdp_per_capita,13406.1165,13252.2425,13569.3233
+Uzbekistan,2025,gdp_per_capita,13862.6361,13647.5434,14075.077
+Uzbekistan,2026,gdp_per_capita,14317.9083,14006.3646,14606.9641
+Uzbekistan,2027,gdp_per_capita,14773.1806,14363.9624,15199.8694
+Vietnam,2023,internet_usage,82.8085,77.7575,87.8644
+Vietnam,2024,internet_usage,86.9702,82.2368,91.8673
+Vietnam,2025,internet_usage,91.1433,86.3104,96.323
+Vietnam,2026,internet_usage,95.3049,90.0976,100.5644
+Vietnam,2027,internet_usage,99.4666,94.1044,104.9802
+Vietnam,2023,electricity_access,100.5539,98.5815,102.5274
+Vietnam,2024,electricity_access,100.7365,98.7693,102.7903
+Vietnam,2025,electricity_access,100.9196,98.8463,102.9843
+Vietnam,2026,electricity_access,101.1022,99.1273,103.1802
+Vietnam,2027,electricity_access,101.2847,99.1282,103.4134
+Vietnam,2023,gdp_per_capita,8321.259,8202.6157,8444.4964
+Vietnam,2024,gdp_per_capita,8633.5273,8505.4174,8764.6692
+Vietnam,2025,gdp_per_capita,8946.6512,8811.9085,9071.8753
+Vietnam,2026,gdp_per_capita,9258.9195,9106.2648,9409.9395
+Vietnam,2027,gdp_per_capita,9571.1878,9382.7212,9738.285
+Yemen,2023,internet_usage,31.4536,23.3409,39.5969
+Yemen,2024,internet_usage,32.9471,24.9699,41.204
+Yemen,2025,internet_usage,34.4446,26.1991,43.0366
+Yemen,2023,electricity_access,79.8448,71.4283,88.1314
+Yemen,2024,electricity_access,81.2516,73.4541,89.1172
+Yemen,2025,electricity_access,82.6622,74.5203,90.8409
+Yemen,2023,gdp_per_capita,2446.5169,1392.9445,3553.1236
+Yemen,2024,gdp_per_capita,2339.0453,1248.9639,3395.7402
+Yemen,2025,gdp_per_capita,2231.2792,1171.0951,3247.17
+Zambia,2023,internet_usage,20.3422,12.2486,28.9118
+Zambia,2024,internet_usage,21.4185,12.1597,29.9804
+Zambia,2025,internet_usage,22.4978,13.9175,30.9442
+Zambia,2026,internet_usage,23.5741,15.5194,32.3379
+Zambia,2027,internet_usage,24.6504,15.958,33.6919
+Zambia,2023,electricity_access,46.3217,40.7102,52.1436
+Zambia,2024,electricity_access,47.7283,41.8871,53.2336
+Zambia,2025,electricity_access,49.1388,43.4787,54.801
+Zambia,2026,electricity_access,50.5454,44.7768,56.3279
+Zambia,2027,electricity_access,51.9521,46.2499,57.8113
+Zambia,2023,gdp_per_capita,4014.6492,3358.3567,4597.4968
+Zambia,2024,gdp_per_capita,4118.843,3538.7139,4724.4355
+Zambia,2025,gdp_per_capita,4223.3223,3671.3337,4817.6195
+Zambia,2026,gdp_per_capita,4327.5162,3724.5857,4923.5485
+Zambia,2027,gdp_per_capita,4431.71,3879.612,5037.1364
+Zimbabwe,2023,internet_usage,34.2932,26.8252,41.197
+Zimbabwe,2024,internet_usage,36.0405,29.0357,43.2103
+Zimbabwe,2025,internet_usage,37.7925,31.1072,44.9418
+Zimbabwe,2026,internet_usage,39.5398,32.3033,46.3213
+Zimbabwe,2027,internet_usage,41.2871,34.4513,48.5081
+Zimbabwe,2023,electricity_access,48.3525,41.6629,55.275
+Zimbabwe,2024,electricity_access,49.0443,42.1095,55.9126
+Zimbabwe,2025,electricity_access,49.738,43.0059,56.4669
+Zimbabwe,2026,electricity_access,50.4298,43.9107,57.7564
+Zimbabwe,2027,electricity_access,51.1216,44.5913,58.0269
+Zimbabwe,2023,gdp_per_capita,1648.4398,1152.7672,2118.4773
+Zimbabwe,2024,gdp_per_capita,1644.9193,1149.9746,2172.7579
+Zimbabwe,2025,gdp_per_capita,1641.3891,1163.813,2114.2261
+Zimbabwe,2026,gdp_per_capita,1637.8686,1129.9605,2142.9448
+Zimbabwe,2027,gdp_per_capita,1634.348,1156.7772,2160.6577
+Afghanistan,2023,internet_usage,18.1522,14.7487,21.8387
+Afghanistan,2024,internet_usage,19.1131,15.3282,22.7436
+Afghanistan,2025,internet_usage,20.0766,16.5905,23.7659
+Afghanistan,2026,internet_usage,21.0375,17.5239,24.4586
+Afghanistan,2027,internet_usage,21.9984,18.4528,25.6246
+Afghanistan,2023,electricity_access,112.8241,95.8399,130.7424
+Afghanistan,2024,electricity_access,117.4612,99.951,134.2217
+Afghanistan,2025,electricity_access,122.111,104.1634,138.6838
+Afghanistan,2026,electricity_access,126.7481,109.6184,144.4228
+Afghanistan,2027,electricity_access,131.3852,113.7267,147.9284
+Afghanistan,2023,gdp_per_capita,2165.6527,1585.6663,2757.4392
+Afghanistan,2024,gdp_per_capita,2223.4243,1641.2322,2775.8449
+Afghanistan,2025,gdp_per_capita,2281.3542,1723.875,2800.8304
+Afghanistan,2026,gdp_per_capita,2339.1258,1740.3555,2914.231
+Afghanistan,2027,gdp_per_capita,2396.8974,1837.018,2970.1139
+Iraq,2023,internet_usage,55.5109,32.112,78.5735
+Iraq,2024,internet_usage,58.7459,35.8619,82.2096
+Iraq,2025,internet_usage,61.9897,38.4099,85.4467
+Iraq,2026,internet_usage,65.2247,42.0182,87.3819
+Iraq,2027,internet_usage,68.4597,45.5128,91.9938
+Iraq,2023,electricity_access,100.0468,99.4624,100.5404
+Iraq,2024,electricity_access,100.0697,98.2989,101.6003
+Iraq,2025,electricity_access,100.0926,96.7132,102.9997
+Iraq,2026,electricity_access,100.1155,95.262,104.4237
+Iraq,2027,electricity_access,100.1384,93.5139,106.1152
+Iraq,2023,gdp_per_capita,15748.2065,12971.8562,18460.0023
+Iraq,2024,gdp_per_capita,16237.4992,13533.7483,18964.3203
+Iraq,2025,gdp_per_capita,16728.1323,14085.5461,19425.311
+Iraq,2026,gdp_per_capita,17217.4249,14353.0758,19799.0581
+Iraq,2027,gdp_per_capita,17706.7176,15225.8047,20288.5388
+Myanmar,2023,internet_usage,42.4013,22.1804,61.9067
+Myanmar,2024,internet_usage,44.9436,27.8832,63.4374
+Myanmar,2025,internet_usage,47.4929,29.2516,67.3185
+Myanmar,2026,internet_usage,50.0353,31.7576,69.2854
+Myanmar,2027,internet_usage,52.5776,31.6183,72.3927
+Myanmar,2023,electricity_access,74.8095,69.8222,79.9134
+Myanmar,2024,electricity_access,76.6884,71.2389,81.7012
+Myanmar,2025,electricity_access,78.5725,73.5642,84.0874
+Myanmar,2026,electricity_access,80.4514,75.3395,85.6407
+Myanmar,2027,electricity_access,82.3303,77.0239,87.3911
+Myanmar,2023,gdp_per_capita,6324.0821,5652.0142,6993.4833
+Myanmar,2024,gdp_per_capita,6512.9835,5795.4608,7307.6103
+Myanmar,2025,gdp_per_capita,6702.4024,6024.5187,7398.2829
+Myanmar,2026,gdp_per_capita,6891.3038,6215.5243,7602.237
+Myanmar,2027,gdp_per_capita,7080.2052,6392.794,7812.73
+Pakistan,2023,internet_usage,20.2322,16.5424,24.0293
+Pakistan,2024,internet_usage,21.0963,17.2356,24.7701
+Pakistan,2025,internet_usage,21.9627,18.504,25.3497
+Pakistan,2026,internet_usage,22.8268,19.0982,26.6696
+Pakistan,2027,internet_usage,23.6909,19.8998,27.671
+Pakistan,2023,electricity_access,95.9052,95.2096,96.6373
+Pakistan,2024,electricity_access,96.438,95.3992,97.484
+Pakistan,2025,electricity_access,96.9722,95.3629,98.672
+Pakistan,2026,electricity_access,97.5049,95.1818,99.9719
+Pakistan,2027,electricity_access,98.0377,95.0092,100.9978
+Pakistan,2023,gdp_per_capita,5638.3018,5527.2427,5748.3493
+Pakistan,2024,gdp_per_capita,5731.4697,5615.3888,5852.6293
+Pakistan,2025,gdp_per_capita,5824.8929,5701.0938,5941.2072
+Pakistan,2026,gdp_per_capita,5918.0609,5794.0863,6038.7601
+Pakistan,2027,gdp_per_capita,6011.2289,5876.408,6148.2432
+Guinea-Bissau,2023,internet_usage,21.3117,13.4528,29.4531
+Guinea-Bissau,2024,internet_usage,22.5163,15.1525,30.2718
+Guinea-Bissau,2025,internet_usage,23.7242,16.3293,32.0668
+Guinea-Bissau,2026,internet_usage,24.9287,17.2582,32.3508
+Guinea-Bissau,2027,internet_usage,26.1333,18.198,33.9915
+Guinea-Bissau,2023,electricity_access,36.4193,29.5758,42.6617
+Guinea-Bissau,2024,electricity_access,38.2042,31.8091,44.7221
+Guinea-Bissau,2025,electricity_access,39.9939,33.5668,46.7196
+Guinea-Bissau,2026,electricity_access,41.7788,34.9281,48.1946
+Guinea-Bissau,2027,electricity_access,43.5637,37.0633,50.4319
+Guinea-Bissau,2023,gdp_per_capita,1639.4734,1593.3629,1687.3026
+Guinea-Bissau,2024,gdp_per_capita,1666.8491,1622.2923,1713.2369
+Guinea-Bissau,2025,gdp_per_capita,1694.2999,1650.4568,1738.3519
+Guinea-Bissau,2026,gdp_per_capita,1721.6756,1673.8309,1766.5988
+Guinea-Bissau,2027,gdp_per_capita,1749.0513,1703.2997,1797.6328
+Montenegro,2023,internet_usage,91.5893,82.7617,100.6066
+Montenegro,2024,internet_usage,95.2899,86.1268,104.1728
+Montenegro,2025,internet_usage,99.0007,89.477,107.8868
+Montenegro,2026,internet_usage,102.7014,94.4693,112.0414
+Montenegro,2027,internet_usage,106.402,97.0353,116.0883
+Montenegro,2023,electricity_access,100.0575,99.3485,100.8185
+Montenegro,2024,electricity_access,100.0997,99.3272,100.8684
+Montenegro,2025,electricity_access,100.142,99.3173,100.9768
+Montenegro,2026,electricity_access,100.1842,99.2282,101.1271
+Montenegro,2027,electricity_access,100.2264,99.2867,101.1784
+Montenegro,2023,gdp_per_capita,21994.1207,19889.7685,24097.8735
+Montenegro,2024,gdp_per_capita,22632.6775,20448.0307,24674.2514
+Montenegro,2025,gdp_per_capita,23272.9838,21128.0521,25368.168
+Montenegro,2026,gdp_per_capita,23911.5406,21808.9503,25846.0986
+Montenegro,2027,gdp_per_capita,24550.0975,22468.5009,26679.3644
+Serbia,2023,internet_usage,90.1767,85.6737,94.6909
+Serbia,2024,internet_usage,93.7829,89.2552,98.6798
+Serbia,2025,internet_usage,97.3989,92.9847,101.8109
+Serbia,2026,internet_usage,101.0051,96.6702,105.4899
+Serbia,2027,internet_usage,104.6113,100.1645,109.4029
+Serbia,2023,electricity_access,100.0132,99.8772,100.1408
+Serbia,2024,electricity_access,100.03,99.6569,100.3857
+Serbia,2025,electricity_access,100.047,99.3899,100.6887
+Serbia,2026,electricity_access,100.0639,99.0604,101.0391
+Serbia,2027,electricity_access,100.0807,98.7406,101.3478
+Serbia,2023,gdp_per_capita,16848.8737,15928.0795,17793.4449
+Serbia,2024,gdp_per_capita,17253.4064,16256.103,18129.7188
+Serbia,2025,gdp_per_capita,17659.0474,16743.8481,18598.3255
+Serbia,2026,gdp_per_capita,18063.5801,17205.3718,18932.7792
+Serbia,2027,gdp_per_capita,18468.1128,17517.1543,19368.5213
+Liberia,2023,internet_usage,24.0403,19.7569,28.1235
+Liberia,2024,internet_usage,25.7013,21.532,29.8167
+Liberia,2025,internet_usage,27.3669,22.8686,31.6732
+Liberia,2026,internet_usage,29.028,24.7733,33.2006
+Liberia,2027,internet_usage,30.6891,26.3221,34.8614
+Liberia,2023,electricity_access,33.2692,28.7543,37.4709
+Liberia,2024,electricity_access,35.4442,31.1908,39.7516
+Liberia,2025,electricity_access,37.6253,33.432,41.6786
+Liberia,2026,electricity_access,39.8003,35.3467,43.8928
+Liberia,2027,electricity_access,41.9754,37.6144,46.1966
+Liberia,2023,gdp_per_capita,780.8426,744.8301,818.4169
+Liberia,2024,gdp_per_capita,771.2288,732.1415,811.3478
+Liberia,2025,gdp_per_capita,761.5887,720.2315,804.3031
+Liberia,2026,gdp_per_capita,751.9749,709.5874,795.2105
+Liberia,2027,gdp_per_capita,742.361,695.0499,796.6821
