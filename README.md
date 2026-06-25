@@ -88,6 +88,10 @@ http://localhost:8501
 2. Pilih fitur yang ingin dianalisis (Internet/Listrik/GDP) di sidebar
 3. Lihat grafik tren dan distribusi di bagian bawah
 4. Pilih negara tertentu untuk melihat perbandingan historis vs forecast```markdown
+
+##  📁 Struktur Proyek
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/b3a0557f-4c4b-4fe3-b7e8-2df9232287dd" />
+
 ## 📊 Sumber Data
 
 Seluruh dataset berasal dari **Our World in Data** dengan periode 2000-2022:
