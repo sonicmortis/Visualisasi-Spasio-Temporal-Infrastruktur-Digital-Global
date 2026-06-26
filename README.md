@@ -7,7 +7,7 @@
 |----------|-------------------------------|
 | **NIM** | 2311532020 |
 | **Mata Kuliah** | Visualisasi Data Spasio-Temporal |
-| **Dosen Pengampu** | Nurfiah S.ST., M.Kom |
+| **Dosen Pengampu** | Nurfiah S.ST., M.Kom. |
 
 ---
 ## 📋 Deskripsi Proyek
